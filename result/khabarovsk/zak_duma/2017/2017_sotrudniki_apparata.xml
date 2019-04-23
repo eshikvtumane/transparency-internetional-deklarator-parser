@@ -1,0 +1,956 @@
+<?xml version='1.0' encoding='utf-8'?>
+<persons xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="declarationXMLtemplate_Schema _transport_merged.xsd">
+  <person>
+    <id>1</id>
+    <name>Старников Сергей Павлович</name>
+    <position>руководитель аппарата Законодательной Думы Хабаровского края</position>
+    <income>3387104.39</income>
+    <incomeComment xsi:nil="true"/>
+    <incomeSource xsi:nil="true"/>
+    <relativeOf xsi:nil="true"/>
+    <relationType xsi:nil="true"/>
+    <realties>
+      <realty>
+        <RealtyName>квартира</RealtyName>
+        <realtyType>2</realtyType>
+        <objectType>7</objectType>
+        <square>45.7</square>
+        <country>6</country>
+      </realty>
+    </realties>
+  </person>
+  <person>
+    <id>2</id>
+    <name>Сазанова Елена Валерьевна</name>
+    <position>советник председателя Законодательной Думы Хабаровского края</position>
+    <income>5406724.42</income>
+    <incomeComment xsi:nil="true"/>
+    <incomeSource xsi:nil="true"/>
+    <relativeOf xsi:nil="true"/>
+    <relationType xsi:nil="true"/>
+    <realties>
+      <realty>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
+        <RealtyName>квартира, индивидуальная собственность</RealtyName>
+        <realtyType>1</realtyType>
+        <objectType>7</objectType>
+        <square>66.3</square>
+        <country>6</country>
+      </realty>
+      <realty>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
+        <RealtyName>гаражный бокс, совместная собственность</RealtyName>
+        <realtyType>1</realtyType>
+        <objectType>8</objectType>
+        <square>20.9</square>
+        <country>6</country>
+      </realty>
+      <realty>
+        <RealtyName>земельный участок</RealtyName>
+        <realtyType>2</realtyType>
+        <objectType>8</objectType>
+        <square>20.9</square>
+        <country>6</country>
+      </realty>
+    </realties>
+  </person>
+  <person>
+    <id>3</id>
+    <name xsi:nil="true"/>
+    <position xsi:nil="true"/>
+    <income>462940.22</income>
+    <incomeComment xsi:nil="true"/>
+    <incomeSource xsi:nil="true"/>
+    <relativeOf>2</relativeOf>
+    <relationType>1</relationType>
+    <realties>
+      <realty>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
+        <RealtyName>гаражный бокс, совместная собственность</RealtyName>
+        <realtyType>1</realtyType>
+        <objectType>8</objectType>
+        <square>20.9</square>
+        <country>6</country>
+      </realty>
+      <realty>
+        <RealtyName>квартира</RealtyName>
+        <realtyType>2</realtyType>
+        <objectType>7</objectType>
+        <square>66.3</square>
+        <country>6</country>
+      </realty>
+      <realty>
+        <RealtyName>земельный участок</RealtyName>
+        <realtyType>2</realtyType>
+        <objectType>8</objectType>
+        <square>20.9</square>
+        <country>6</country>
+      </realty>
+    </realties>
+  </person>
+  <person>
+    <id>4</id>
+    <name xsi:nil="true"/>
+    <position xsi:nil="true"/>
+    <income></income>
+    <incomeComment xsi:nil="true"/>
+    <incomeSource xsi:nil="true"/>
+    <relativeOf>2</relativeOf>
+    <relationType>3</relationType>
+    <realties>
+      <realty>
+        <RealtyName>квартира</RealtyName>
+        <realtyType>2</realtyType>
+        <objectType>7</objectType>
+        <square>66.3</square>
+        <country>6</country>
+      </realty>
+    </realties>
+  </person>
+  <person>
+    <id>5</id>
+    <name>Зайцев Даниил Викторович</name>
+    <position>советник председателя Законодательной Думы Хабаровского края по информационной политике</position>
+    <income>1719593.23</income>
+    <incomeComment xsi:nil="true"/>
+    <incomeSource xsi:nil="true"/>
+    <relativeOf xsi:nil="true"/>
+    <relationType xsi:nil="true"/>
+    <realties>
+      <realty>
+        <ownershipType>3</ownershipType>
+        <ownershipPart>0.5</ownershipPart>
+        <RealtyName>квартира, общая долевая собственность, 1/2</RealtyName>
+        <realtyType>1</realtyType>
+        <objectType>7</objectType>
+        <square>47.3</square>
+        <country>6</country>
+      </realty>
+      <realty>
+        <ownershipType>3</ownershipType>
+        <ownershipPart>0.5</ownershipPart>
+        <RealtyName>квартира, общая долевая собственность, 1/2</RealtyName>
+        <realtyType>1</realtyType>
+        <objectType>7</objectType>
+        <square>32.3</square>
+        <country>6</country>
+      </realty>
+    </realties>
+  </person>
+  <person>
+    <id>6</id>
+    <name xsi:nil="true"/>
+    <position xsi:nil="true"/>
+    <income>806.59</income>
+    <incomeComment xsi:nil="true"/>
+    <incomeSource xsi:nil="true"/>
+    <relativeOf>5</relativeOf>
+    <relationType>2</relationType>
+    <realties>
+      <realty>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
+        <RealtyName>земельный участок дачный, индивидуальная собственность</RealtyName>
+        <realtyType>1</realtyType>
+        <objectType>8</objectType>
+        <square>600.0</square>
+        <country>6</country>
+      </realty>
+      <realty>
+        <RealtyName>квартира</RealtyName>
+        <realtyType>2</realtyType>
+        <objectType>7</objectType>
+        <square>47.3</square>
+        <country>6</country>
+      </realty>
+    </realties>
+  </person>
+  <person>
+    <id>7</id>
+    <name xsi:nil="true"/>
+    <position xsi:nil="true"/>
+    <income></income>
+    <incomeComment xsi:nil="true"/>
+    <incomeSource xsi:nil="true"/>
+    <relativeOf>5</relativeOf>
+    <relationType>3</relationType>
+    <realties>
+      <realty>
+        <RealtyName>квартира</RealtyName>
+        <realtyType>2</realtyType>
+        <objectType>7</objectType>
+        <square>47.3</square>
+        <country>6</country>
+      </realty>
+    </realties>
+  </person>
+  <person>
+    <id>8</id>
+    <name>Гуляева Юлия Анатольевна</name>
+    <position>помощник первого заместителя председателя Законодательной Думы Хабаровского края</position>
+    <income>1526932.87</income>
+    <incomeComment xsi:nil="true"/>
+    <incomeSource xsi:nil="true"/>
+    <relativeOf xsi:nil="true"/>
+    <relationType xsi:nil="true"/>
+    <realties>
+      <realty>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
+        <RealtyName>земельный участок садовый, индивидуальная собственность</RealtyName>
+        <realtyType>1</realtyType>
+        <objectType>8</objectType>
+        <square>867.0</square>
+        <country>6</country>
+      </realty>
+      <realty>
+        <ownershipType>3</ownershipType>
+        <ownershipPart>0.5</ownershipPart>
+        <RealtyName>квартира, общая долевая собственность, 1/2</RealtyName>
+        <realtyType>1</realtyType>
+        <objectType>7</objectType>
+        <square>44.9</square>
+        <country>6</country>
+      </realty>
+    </realties>
+  </person>
+  <person>
+    <id>9</id>
+    <name>Ронская Ирина Игоревна</name>
+    <position>помощник заместителя председателя Законодательной Думы Хабаровского края</position>
+    <income>1016039.79</income>
+    <incomeComment xsi:nil="true"/>
+    <incomeSource xsi:nil="true"/>
+    <relativeOf xsi:nil="true"/>
+    <relationType xsi:nil="true"/>
+    <realties>
+      <realty>
+        <RealtyName>квартира</RealtyName>
+        <realtyType>2</realtyType>
+        <objectType>7</objectType>
+        <square>32.0</square>
+        <country>6</country>
+      </realty>
+    </realties>
+  </person>
+  <person>
+    <id>10</id>
+    <name>Брагина Елена Владимировна</name>
+    <position>начальник управления аппарата Законодательной Думы Хабаровского края</position>
+    <income>2259114.65</income>
+    <incomeComment xsi:nil="true"/>
+    <incomeSource xsi:nil="true"/>
+    <relativeOf xsi:nil="true"/>
+    <relationType xsi:nil="true"/>
+    <realties>
+      <realty>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
+        <RealtyName>квартира, индивидуальная собственность</RealtyName>
+        <realtyType>1</realtyType>
+        <objectType>7</objectType>
+        <square>59.2</square>
+        <country>6</country>
+      </realty>
+    </realties>
+  </person>
+  <person>
+    <id>11</id>
+    <name>Хаустова Инна Александровна</name>
+    <position>заместитель начальника управления – начальник отдела управления аппарата Законодательной Думы Хабаровского края</position>
+    <income>2096714.67</income>
+    <incomeComment xsi:nil="true"/>
+    <incomeSource xsi:nil="true"/>
+    <relativeOf xsi:nil="true"/>
+    <relationType xsi:nil="true"/>
+    <realties>
+      <realty>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
+        <RealtyName>квартира, совместная собственность</RealtyName>
+        <realtyType>1</realtyType>
+        <objectType>7</objectType>
+        <square>64.4</square>
+        <country>6</country>
+      </realty>
+    </realties>
+  </person>
+  <person>
+    <id>12</id>
+    <name xsi:nil="true"/>
+    <position xsi:nil="true"/>
+    <income>335613.59</income>
+    <incomeComment xsi:nil="true"/>
+    <incomeSource xsi:nil="true"/>
+    <relativeOf>11</relativeOf>
+    <relationType>1</relationType>
+    <realties>
+      <realty>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
+        <RealtyName>квартира, совместная собственность</RealtyName>
+        <realtyType>1</realtyType>
+        <objectType>7</objectType>
+        <square>64.4</square>
+        <country>6</country>
+      </realty>
+    </realties>
+  </person>
+  <person>
+    <id>13</id>
+    <name>Цуркина Людмила Григорьевна</name>
+    <position>начальник отдела управления аппарата Законодательной Думы Хабаровского края</position>
+    <income>1485832.33</income>
+    <incomeComment xsi:nil="true"/>
+    <incomeSource xsi:nil="true"/>
+    <relativeOf xsi:nil="true"/>
+    <relationType xsi:nil="true"/>
+    <realties>
+      <realty>
+        <RealtyName>квартира</RealtyName>
+        <realtyType>2</realtyType>
+        <objectType>7</objectType>
+        <square>54.6</square>
+        <country>6</country>
+      </realty>
+    </realties>
+  </person>
+  <person>
+    <id>14</id>
+    <name>Литвинюк Марина Николаевна</name>
+    <position>начальник управления аппарата Законодательной Думы Хабаровского края</position>
+    <income>2156486.04</income>
+    <incomeComment xsi:nil="true"/>
+    <incomeSource xsi:nil="true"/>
+    <relativeOf xsi:nil="true"/>
+    <relationType xsi:nil="true"/>
+    <realties>
+      <realty>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
+        <RealtyName>квартира, индивидуальная собственность</RealtyName>
+        <realtyType>1</realtyType>
+        <objectType>7</objectType>
+        <square>61.2</square>
+        <country>6</country>
+      </realty>
+      <realty>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
+        <RealtyName>гараж, индивидуальная собственность</RealtyName>
+        <realtyType>1</realtyType>
+        <objectType>8</objectType>
+        <square>23.0</square>
+        <country>6</country>
+      </realty>
+      <realty>
+        <RealtyName>земельный участок</RealtyName>
+        <realtyType>2</realtyType>
+        <objectType>8</objectType>
+        <square>23.0</square>
+        <country>6</country>
+      </realty>
+    </realties>
+  </person>
+  <person>
+    <id>15</id>
+    <name>Кузнецова Татьяна Борисовна</name>
+    <position>заместитель начальника управления – начальник отдела управления аппарата Законодательной Думы Хабаровского края</position>
+    <income>1770891.98</income>
+    <incomeComment xsi:nil="true"/>
+    <incomeSource xsi:nil="true"/>
+    <relativeOf xsi:nil="true"/>
+    <relationType xsi:nil="true"/>
+    <realties>
+      <realty>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
+        <RealtyName>квартира, индивидуальная собственность</RealtyName>
+        <realtyType>1</realtyType>
+        <objectType>7</objectType>
+        <square>53.3</square>
+        <country>6</country>
+      </realty>
+      <realty>
+        <ownershipType>3</ownershipType>
+        <ownershipPart>0.25</ownershipPart>
+        <RealtyName>квартира, общая долевая собственность, 1/4</RealtyName>
+        <realtyType>1</realtyType>
+        <objectType>7</objectType>
+        <square>34.0</square>
+        <country>6</country>
+      </realty>
+    </realties>
+  </person>
+  <person>
+    <id>16</id>
+    <name>Курашкин Максим Сергеевич</name>
+    <position>начальник отдела управления аппарата Законодательной Думы Хабаровского края</position>
+    <income>1552492.76</income>
+    <incomeComment xsi:nil="true"/>
+    <incomeSource xsi:nil="true"/>
+    <relativeOf xsi:nil="true"/>
+    <relationType xsi:nil="true"/>
+    <realties>
+      <realty>
+        <RealtyName>квартира</RealtyName>
+        <realtyType>2</realtyType>
+        <objectType>7</objectType>
+        <square>50.4</square>
+        <country>6</country>
+      </realty>
+    </realties>
+  </person>
+  <person>
+    <id>17</id>
+    <name xsi:nil="true"/>
+    <position xsi:nil="true"/>
+    <income>572639.25</income>
+    <incomeComment xsi:nil="true"/>
+    <incomeSource xsi:nil="true"/>
+    <relativeOf>16</relativeOf>
+    <relationType>2</relationType>
+    <realties>
+      <realty>
+        <ownershipType>3</ownershipType>
+        <ownershipPart>0.5</ownershipPart>
+        <RealtyName>квартира, общая долевая собственность, 1/2</RealtyName>
+        <realtyType>1</realtyType>
+        <objectType>7</objectType>
+        <square>65.5</square>
+        <country>6</country>
+      </realty>
+      <realty>
+        <RealtyName>квартира</RealtyName>
+        <realtyType>2</realtyType>
+        <objectType>7</objectType>
+        <square>50.4</square>
+        <country>6</country>
+      </realty>
+    </realties>
+  </person>
+  <person>
+    <id>18</id>
+    <name xsi:nil="true"/>
+    <position xsi:nil="true"/>
+    <income></income>
+    <incomeComment xsi:nil="true"/>
+    <incomeSource xsi:nil="true"/>
+    <relativeOf>16</relativeOf>
+    <relationType>3</relationType>
+    <realties>
+      <realty>
+        <RealtyName>квартира</RealtyName>
+        <realtyType>2</realtyType>
+        <objectType>7</objectType>
+        <square>50.4</square>
+        <country>6</country>
+      </realty>
+    </realties>
+  </person>
+  <person>
+    <id>19</id>
+    <name>Радинская Елена Васильевна</name>
+    <position>исполняющий обязанности заместителя начальника управления – начальника отдела управления аппарата Законодательной Думы Хабаровского края</position>
+    <income>1377623.43</income>
+    <incomeComment xsi:nil="true"/>
+    <incomeSource xsi:nil="true"/>
+    <relativeOf xsi:nil="true"/>
+    <relationType xsi:nil="true"/>
+    <realties>
+      <realty>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
+        <RealtyName>земельный участок садовый, индивидуальная собственность</RealtyName>
+        <realtyType>1</realtyType>
+        <objectType>8</objectType>
+        <square>842.0</square>
+        <country>6</country>
+      </realty>
+      <realty>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
+        <RealtyName>квартира, индивидуальная собственность</RealtyName>
+        <realtyType>1</realtyType>
+        <objectType>7</objectType>
+        <square>50.4</square>
+        <country>6</country>
+      </realty>
+    </realties>
+  </person>
+  <person>
+    <id>20</id>
+    <name xsi:nil="true"/>
+    <position xsi:nil="true"/>
+    <income></income>
+    <incomeComment xsi:nil="true"/>
+    <incomeSource xsi:nil="true"/>
+    <relativeOf>19</relativeOf>
+    <relationType>3</relationType>
+    <realties>
+      <realty>
+        <RealtyName>квартира</RealtyName>
+        <realtyType>2</realtyType>
+        <objectType>7</objectType>
+        <square>50.4</square>
+        <country>6</country>
+      </realty>
+    </realties>
+  </person>
+  <person>
+    <id>21</id>
+    <name>Трофимова Татьяна Юрьевна</name>
+    <position>начальник отдела управления аппарата Законодательной Думы Хабаровского края</position>
+    <income>1413379.05</income>
+    <incomeComment xsi:nil="true"/>
+    <incomeSource xsi:nil="true"/>
+    <relativeOf xsi:nil="true"/>
+    <relationType xsi:nil="true"/>
+    <realties>
+      <realty>
+        <ownershipType>3</ownershipType>
+        <ownershipPart>0.333333333333</ownershipPart>
+        <RealtyName>квартира, общая долевая собственность, 1/3</RealtyName>
+        <realtyType>1</realtyType>
+        <objectType>7</objectType>
+        <square>65.4</square>
+        <country>6</country>
+      </realty>
+      <realty>
+        <ownershipType>3</ownershipType>
+        <ownershipPart>0.5</ownershipPart>
+        <RealtyName>квартира, общая долевая собственность, 1/2</RealtyName>
+        <realtyType>1</realtyType>
+        <objectType>7</objectType>
+        <square>56.6</square>
+        <country>6</country>
+      </realty>
+    </realties>
+  </person>
+  <person>
+    <id>22</id>
+    <name xsi:nil="true"/>
+    <position xsi:nil="true"/>
+    <income>4635643.43</income>
+    <incomeComment xsi:nil="true"/>
+    <incomeSource xsi:nil="true"/>
+    <relativeOf>21</relativeOf>
+    <relationType>1</relationType>
+    <realties>
+      <realty>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
+        <RealtyName>земельный участок дачный, индивидуальная собственность</RealtyName>
+        <realtyType>1</realtyType>
+        <objectType>8</objectType>
+        <square>720.0</square>
+        <country>6</country>
+      </realty>
+      <realty>
+        <ownershipType>3</ownershipType>
+        <ownershipPart>0.333333333333</ownershipPart>
+        <RealtyName>квартира, общая долевая собственность, 1/3</RealtyName>
+        <realtyType>1</realtyType>
+        <objectType>7</objectType>
+        <square>65.4</square>
+        <country>6</country>
+      </realty>
+    </realties>
+  </person>
+  <person>
+    <id>23</id>
+    <name xsi:nil="true"/>
+    <position xsi:nil="true"/>
+    <income></income>
+    <incomeComment xsi:nil="true"/>
+    <incomeSource xsi:nil="true"/>
+    <relativeOf>21</relativeOf>
+    <relationType>3</relationType>
+    <realties>
+      <realty>
+        <ownershipType>3</ownershipType>
+        <ownershipPart>0.333333333333</ownershipPart>
+        <RealtyName>квартира, общая долевая собственность, 1/3</RealtyName>
+        <realtyType>1</realtyType>
+        <objectType>7</objectType>
+        <square>65.4</square>
+        <country>6</country>
+      </realty>
+    </realties>
+  </person>
+  <person>
+    <id>24</id>
+    <name>Демина Татьяна Анатольевна</name>
+    <position>исполняющий обязанности начальника отдела управления аппарата Законодательной Думы Хабаровского края</position>
+    <income>1176222.76</income>
+    <incomeComment xsi:nil="true"/>
+    <incomeSource xsi:nil="true"/>
+    <relativeOf xsi:nil="true"/>
+    <relationType xsi:nil="true"/>
+    <realties>
+      <realty>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
+        <RealtyName>земельный участок садовый, индивидуальная собственность</RealtyName>
+        <realtyType>1</realtyType>
+        <objectType>8</objectType>
+        <square>600.0</square>
+        <country>6</country>
+      </realty>
+      <realty>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
+        <RealtyName>квартира, индивидуальная собственность</RealtyName>
+        <realtyType>1</realtyType>
+        <objectType>7</objectType>
+        <square>69.4</square>
+        <country>6</country>
+      </realty>
+      <realty>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
+        <RealtyName>гараж, индивидуальная собственность</RealtyName>
+        <realtyType>1</realtyType>
+        <objectType>8</objectType>
+        <square>19.7</square>
+        <country>6</country>
+      </realty>
+      <realty>
+        <RealtyName>земельный участок</RealtyName>
+        <realtyType>2</realtyType>
+        <objectType>8</objectType>
+        <square>19.7</square>
+        <country>6</country>
+      </realty>
+    </realties>
+  </person>
+  <person>
+    <id>25</id>
+    <name xsi:nil="true"/>
+    <position xsi:nil="true"/>
+    <income></income>
+    <incomeComment xsi:nil="true"/>
+    <incomeSource xsi:nil="true"/>
+    <relativeOf>24</relativeOf>
+    <relationType>3</relationType>
+    <realties>
+      <realty>
+        <RealtyName>квартира</RealtyName>
+        <realtyType>2</realtyType>
+        <objectType>7</objectType>
+        <square>69.4</square>
+        <country>6</country>
+      </realty>
+    </realties>
+  </person>
+  <person>
+    <id>26</id>
+    <name>Чириканов Сергей Геннадьевич</name>
+    <position>заместитель начальника службы аппарата Законодательной Думы Хабаровского края</position>
+    <income>1900092.71</income>
+    <incomeComment xsi:nil="true"/>
+    <incomeSource xsi:nil="true"/>
+    <relativeOf xsi:nil="true"/>
+    <relationType xsi:nil="true"/>
+    <realties>
+      <realty>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
+        <RealtyName>квартира, индивидуальная собственность</RealtyName>
+        <realtyType>1</realtyType>
+        <objectType>7</objectType>
+        <square>69.6</square>
+        <country>6</country>
+      </realty>
+      <realty>
+        <ownershipType>3</ownershipType>
+        <ownershipPart>0.5</ownershipPart>
+        <RealtyName>квартира, общая долевая собственность, 1/2</RealtyName>
+        <realtyType>1</realtyType>
+        <objectType>7</objectType>
+        <square>46.7</square>
+        <country>6</country>
+      </realty>
+    </realties>
+  </person>
+  <person>
+    <id>27</id>
+    <name xsi:nil="true"/>
+    <position xsi:nil="true"/>
+    <income>253712.47</income>
+    <incomeComment xsi:nil="true"/>
+    <incomeSource xsi:nil="true"/>
+    <relativeOf>26</relativeOf>
+    <relationType>2</relationType>
+    <realties>
+      <realty>
+        <ownershipType>3</ownershipType>
+        <ownershipPart>0.5</ownershipPart>
+        <RealtyName>квартира, общая долевая собственность, 1/2</RealtyName>
+        <realtyType>1</realtyType>
+        <objectType>7</objectType>
+        <square>65.6</square>
+        <country>6</country>
+      </realty>
+      <realty>
+        <RealtyName>квартира</RealtyName>
+        <realtyType>2</realtyType>
+        <objectType>7</objectType>
+        <square>69.6</square>
+        <country>6</country>
+      </realty>
+    </realties>
+  </person>
+  <person>
+    <id>28</id>
+    <name>Аверина Наталья Александровна</name>
+    <position>заведующий сектором службы аппарата Законодательной Думы Хабаровского края</position>
+    <income>1429528.14</income>
+    <incomeComment xsi:nil="true"/>
+    <incomeSource xsi:nil="true"/>
+    <relativeOf xsi:nil="true"/>
+    <relationType xsi:nil="true"/>
+    <realties>
+      <realty>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
+        <RealtyName>квартира, индивидуальная собственность</RealtyName>
+        <realtyType>1</realtyType>
+        <objectType>7</objectType>
+        <square>52.6</square>
+        <country>6</country>
+      </realty>
+      <realty>
+        <ownershipType>3</ownershipType>
+        <ownershipPart>0.333333333333</ownershipPart>
+        <RealtyName>квартира, общая долевая собственность, 1/3</RealtyName>
+        <realtyType>1</realtyType>
+        <objectType>7</objectType>
+        <square>39.5</square>
+        <country>6</country>
+      </realty>
+      <realty>
+        <RealtyName>жилой дом</RealtyName>
+        <realtyType>2</realtyType>
+        <objectType>8</objectType>
+        <square>92.0</square>
+        <country>6</country>
+      </realty>
+    </realties>
+  </person>
+  <person>
+    <id>29</id>
+    <name xsi:nil="true"/>
+    <position xsi:nil="true"/>
+    <income>1237111.27</income>
+    <incomeComment xsi:nil="true"/>
+    <incomeSource xsi:nil="true"/>
+    <relativeOf>28</relativeOf>
+    <relationType>1</relationType>
+    <realties>
+      <realty>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
+        <RealtyName>земельный участок под индивидуальное жилищное строительство, индивидуальная собственность</RealtyName>
+        <realtyType>1</realtyType>
+        <objectType>8</objectType>
+        <square>1500.0</square>
+        <country>6</country>
+      </realty>
+      <realty>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
+        <RealtyName>земельный участок садовый, индивидуальная собственность</RealtyName>
+        <realtyType>1</realtyType>
+        <objectType>8</objectType>
+        <square>720.0</square>
+        <country>6</country>
+      </realty>
+      <realty>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
+        <RealtyName>жилой дом, индивидуальная собственность</RealtyName>
+        <realtyType>1</realtyType>
+        <objectType>8</objectType>
+        <square>92.0</square>
+        <country>6</country>
+      </realty>
+      <realty>
+        <ownershipType>3</ownershipType>
+        <ownershipPart>0.5</ownershipPart>
+        <RealtyName>квартира, общая долевая собственность, 1/2</RealtyName>
+        <realtyType>1</realtyType>
+        <objectType>7</objectType>
+        <square>49.2</square>
+        <country>6</country>
+      </realty>
+    </realties>
+  </person>
+  <person>
+    <id>30</id>
+    <name>Лещенко Наталья Владимировна</name>
+    <position>начальник службы аппарата Законодательной Думы Хабаровского края</position>
+    <income>2188335.33</income>
+    <incomeComment xsi:nil="true"/>
+    <incomeSource xsi:nil="true"/>
+    <relativeOf xsi:nil="true"/>
+    <relationType xsi:nil="true"/>
+    <realties>
+      <realty>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
+        <RealtyName>квартира, индивидуальная собственность</RealtyName>
+        <realtyType>1</realtyType>
+        <objectType>7</objectType>
+        <square>55.6</square>
+        <country>6</country>
+      </realty>
+    </realties>
+  </person>
+  <person>
+    <id>31</id>
+    <name>Трухина Александра Андреевна</name>
+    <position>заведующий сектором службы аппарата Законодательной Думы Хабаровского края</position>
+    <income>1167324.89</income>
+    <incomeComment xsi:nil="true"/>
+    <incomeSource xsi:nil="true"/>
+    <relativeOf xsi:nil="true"/>
+    <relationType xsi:nil="true"/>
+    <realties>
+      <realty>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
+        <RealtyName>квартира, индивидуальная собственность</RealtyName>
+        <realtyType>1</realtyType>
+        <objectType>7</objectType>
+        <square>33.8</square>
+        <country>6</country>
+      </realty>
+    </realties>
+  </person>
+  <person>
+    <id>32</id>
+    <name>Комарова Дарья Рашидовна</name>
+    <position>главный специалист сектора службы аппарата Законодательной Думы Хабаровского края</position>
+    <income>1247922.88</income>
+    <incomeComment xsi:nil="true"/>
+    <incomeSource xsi:nil="true"/>
+    <relativeOf xsi:nil="true"/>
+    <relationType xsi:nil="true"/>
+    <realties>
+      <realty>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
+        <RealtyName>квартира, индивидуальная собственность</RealtyName>
+        <realtyType>1</realtyType>
+        <objectType>7</objectType>
+        <square>43.5</square>
+        <country>6</country>
+      </realty>
+    </realties>
+  </person>
+  <person>
+    <id>33</id>
+    <name xsi:nil="true"/>
+    <position xsi:nil="true"/>
+    <income></income>
+    <incomeComment xsi:nil="true"/>
+    <incomeSource xsi:nil="true"/>
+    <relativeOf>32</relativeOf>
+    <relationType>3</relationType>
+    <realties>
+      <realty>
+        <RealtyName>квартира</RealtyName>
+        <realtyType>2</realtyType>
+        <objectType>7</objectType>
+        <square>43.5</square>
+        <country>6</country>
+      </realty>
+    </realties>
+  </person>
+  <person>
+    <id>34</id>
+    <name>Алябьева Ольга Вячеславовна</name>
+    <position>начальник отдела аппарата Законодательной Думы Хабаровского края</position>
+    <income>1539863.26</income>
+    <incomeComment xsi:nil="true"/>
+    <incomeSource xsi:nil="true"/>
+    <relativeOf xsi:nil="true"/>
+    <relationType xsi:nil="true"/>
+    <realties>
+      <realty>
+        <ownershipType>3</ownershipType>
+        <ownershipPart>0.666666666667</ownershipPart>
+        <RealtyName>квартира, общая долевая собственность, 2/3</RealtyName>
+        <realtyType>1</realtyType>
+        <objectType>7</objectType>
+        <square>67.7</square>
+        <country>6</country>
+      </realty>
+      <realty>
+        <RealtyName>квартира</RealtyName>
+        <realtyType>2</realtyType>
+        <objectType>7</objectType>
+        <square>44.6</square>
+        <country>6</country>
+      </realty>
+    </realties>
+  </person>
+  <person>
+    <id>35</id>
+    <name>Цыбрина Виктория Владимировна</name>
+    <position>заведующий сектором аппарата Законодательной Думы Хабаровского края</position>
+    <income>1502939.8</income>
+    <incomeComment xsi:nil="true"/>
+    <incomeSource xsi:nil="true"/>
+    <relativeOf xsi:nil="true"/>
+    <relationType xsi:nil="true"/>
+    <realties>
+      <realty>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
+        <RealtyName>квартира, индивидуальная собственность</RealtyName>
+        <realtyType>1</realtyType>
+        <objectType>7</objectType>
+        <square>33.0</square>
+        <country>6</country>
+      </realty>
+    </realties>
+  </person>
+  <person>
+    <id>36</id>
+    <name xsi:nil="true"/>
+    <position xsi:nil="true"/>
+    <income>1536098.7</income>
+    <incomeComment xsi:nil="true"/>
+    <incomeSource xsi:nil="true"/>
+    <relativeOf>35</relativeOf>
+    <relationType>1</relationType>
+    <realties>
+      <realty>
+        <RealtyName>квартира</RealtyName>
+        <realtyType>2</realtyType>
+        <objectType>7</objectType>
+        <square>33.0</square>
+        <country>6</country>
+      </realty>
+      <realty>
+        <RealtyName>земельный участок</RealtyName>
+        <realtyType>2</realtyType>
+        <objectType>8</objectType>
+        <square>24.0</square>
+        <country>6</country>
+      </realty>
+      <realty>
+        <RealtyName>гараж</RealtyName>
+        <realtyType>2</realtyType>
+        <objectType>8</objectType>
+        <square>24.0</square>
+        <country>6</country>
+      </realty>
+    </realties>
+  </person>
+</persons>
