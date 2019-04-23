@@ -160,54 +160,31 @@ class DeklaratorXML(object):
     def _add_person(self, person, person_id_value):
         person_tag = etree.Element('person')
 
-
         name = self.create_tag_with_text('name', person.name)
-        # name = etree.Element('name')
-        # name.text = unicode(person.name, "utf-8")
 
         if person.position:
             position = self.create_tag_with_text('position', person.position)
-            # position = etree.Element('position')
-            # position.text = unicode(person.position, "utf-8")
         else:
             position = self.create_tag_with_nil('position')
-            # position = etree.Element('position', attrib={
-            #     etree.QName("http://www.w3.org/2001/XMLSchema-instance", "nil"): 'true',
-            # })
 
-        income = self.create_tag_with_text('income', person.salary)
-        # income = etree.Element('income')
-        # income.text = unicode(str(person.salary), "utf-8")
+        if person.salary is not None:
+            income = self.create_tag_with_text('income', person.salary)
+        else:
+            income = self.create_tag_with_text('income', '')
 
         income_comment = self.create_tag_with_nil('incomeComment')
-        # income_comment = etree.Element('incomeComment', attrib={
-        #     etree.QName("http://www.w3.org/2001/XMLSchema-instance", "nil"): 'true',
-        # })
 
         income_source = self.create_tag_with_nil('incomeSource')
-        # income_source = etree.Element('incomeSource', attrib={
-        #     etree.QName("http://www.w3.org/2001/XMLSchema-instance", "nil"): 'true',
-        # })
 
         relation_type = RelationType.get_value_by_name(name.text)
         if relation_type is None:
             relative_type = self.create_tag_with_nil('relationType')
-            # relative_type = etree.Element('relationType', attrib={
-            #     etree.QName("http://www.w3.org/2001/XMLSchema-instance", "nil"): 'true',
-            # })
             relative_of = self.create_tag_with_nil('relativeOf')
-            # relative_of = etree.Element('relativeOf', attrib={
-            #     etree.QName("http://www.w3.org/2001/XMLSchema-instance", "nil"): 'true',
-            # })
             self._id = person_id_value
         else:
+            name = self.create_tag_with_nil('name')
             relative_type = self.create_tag_with_text('relationType', relation_type)
-            # relative_type = etree.Element('relationType')
-            # relative_type.text = unicode(str(relation_type), "utf-8")
-
             relative_of = self.create_tag_with_text('relativeOf', self._id)
-            # relative_of = etree.Element('relativeOf')
-            # relative_of.text = unicode(str(self._id), "utf-8")
 
         person_id = self.create_tag_with_text('id', person_id_value)
         # person_id = etree.Element('id')
