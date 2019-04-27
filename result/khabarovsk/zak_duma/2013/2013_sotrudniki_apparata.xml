@@ -1,0 +1,739 @@
+<?xml version='1.0' encoding='utf-8'?>
+<persons xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="declarationXMLtemplate_Schema _transport_merged.xsd">
+  <person>
+    <id>1</id>
+    <name>Сокуренко С.А.</name>
+    <position>руководитель аппарата Законодательной Думы Хабаровского края</position>
+    <income>2857795.0</income>
+    <incomeComment xsi:nil="true"/>
+    <incomeSource xsi:nil="true"/>
+    <relativeOf xsi:nil="true"/>
+    <relationType xsi:nil="true"/>
+    <realties>
+      <realty>
+        <RealtyName>квартира (пользование)</RealtyName>
+        <realtyType>2</realtyType>
+        <objectType>7</objectType>
+        <square>60.8</square>
+        <country>6</country>
+      </realty>
+      <realty>
+        <RealtyName>объект незавершенного строительства</RealtyName>
+        <realtyType>2</realtyType>
+        <objectType>8</objectType>
+        <square>76.7</square>
+        <country>6</country>
+      </realty>
+    </realties>
+    <transports>
+      <transport>
+        <transportName>легковой автомобиль SSANGYONG «ACTYON»</transportName>
+      </transport>
+    </transports>
+  </person>
+  <person>
+    <id>2</id>
+    <name xsi:nil="true"/>
+    <position xsi:nil="true"/>
+    <income>583208.0</income>
+    <incomeComment xsi:nil="true"/>
+    <incomeSource xsi:nil="true"/>
+    <relativeOf>1</relativeOf>
+    <relationType>2</relationType>
+    <realties>
+      <realty>
+        <ownershipType>3</ownershipType>
+        <ownershipPart>0.5</ownershipPart>
+        <RealtyName>квартира (1/2 доли)</RealtyName>
+        <realtyType>1</realtyType>
+        <objectType>7</objectType>
+        <square>60.8</square>
+        <country>6</country>
+      </realty>
+    </realties>
+    <transports xsi:nil="true"/>
+  </person>
+  <person>
+    <id>3</id>
+    <name xsi:nil="true"/>
+    <position xsi:nil="true"/>
+    <income>0.0</income>
+    <incomeComment xsi:nil="true"/>
+    <incomeSource xsi:nil="true"/>
+    <relativeOf>1</relativeOf>
+    <relationType>3</relationType>
+    <realties>
+      <realty>
+        <ownershipType>3</ownershipType>
+        <ownershipPart>0.5</ownershipPart>
+        <RealtyName>квартира (1/2 доли)</RealtyName>
+        <realtyType>1</realtyType>
+        <objectType>7</objectType>
+        <square>60.8</square>
+        <country>6</country>
+      </realty>
+    </realties>
+    <transports xsi:nil="true"/>
+  </person>
+  <person>
+    <id>4</id>
+    <name>Орлов С.Н.</name>
+    <position>советник председателя Законодательной Думы Хабаровского края</position>
+    <income>746547.0</income>
+    <incomeComment xsi:nil="true"/>
+    <incomeSource xsi:nil="true"/>
+    <relativeOf xsi:nil="true"/>
+    <relationType xsi:nil="true"/>
+    <realties>
+      <realty>
+        <ownershipType>3</ownershipType>
+        <ownershipPart>0.5</ownershipPart>
+        <RealtyName>квартира (1/2 доли)</RealtyName>
+        <realtyType>1</realtyType>
+        <objectType>7</objectType>
+        <square>167.3</square>
+        <country>6</country>
+      </realty>
+      <realty>
+        <ownershipType>3</ownershipType>
+        <ownershipPart>0.5</ownershipPart>
+        <RealtyName>квартира (1/2 доли)</RealtyName>
+        <realtyType>1</realtyType>
+        <objectType>7</objectType>
+        <square>76.2</square>
+        <country>6</country>
+      </realty>
+    </realties>
+    <transports xsi:nil="true"/>
+  </person>
+  <person>
+    <id>5</id>
+    <name xsi:nil="true"/>
+    <position xsi:nil="true"/>
+    <income>0.0</income>
+    <incomeComment xsi:nil="true"/>
+    <incomeSource xsi:nil="true"/>
+    <relativeOf>4</relativeOf>
+    <relationType>2</relationType>
+    <realties>
+      <realty>
+        <ownershipType>3</ownershipType>
+        <ownershipPart>0.5</ownershipPart>
+        <RealtyName>квартира (1/2 доли)</RealtyName>
+        <realtyType>1</realtyType>
+        <objectType>7</objectType>
+        <square>167.3</square>
+        <country>6</country>
+      </realty>
+      <realty>
+        <ownershipType>3</ownershipType>
+        <ownershipPart>0.5</ownershipPart>
+        <RealtyName>квартира (1/2 доли)</RealtyName>
+        <realtyType>1</realtyType>
+        <objectType>7</objectType>
+        <square>76.2</square>
+        <country>6</country>
+      </realty>
+    </realties>
+    <transports>
+      <transport>
+        <transportName>легковой автомобиль Suzuki «Grand Vitara»</transportName>
+      </transport>
+    </transports>
+  </person>
+  <person>
+    <id>6</id>
+    <name xsi:nil="true"/>
+    <position xsi:nil="true"/>
+    <income>0.0</income>
+    <incomeComment xsi:nil="true"/>
+    <incomeSource xsi:nil="true"/>
+    <relativeOf>4</relativeOf>
+    <relationType>3</relationType>
+    <realties>
+      <realty>
+        <RealtyName>квартира (пользование)</RealtyName>
+        <realtyType>2</realtyType>
+        <objectType>7</objectType>
+        <square>167.3</square>
+        <country>6</country>
+      </realty>
+    </realties>
+    <transports xsi:nil="true"/>
+  </person>
+  <person>
+    <id>7</id>
+    <name>Баландина А.П.</name>
+    <position>помощник первого заместителя председателя Законодательной Думы Хабаровского края</position>
+    <income>1160455.0</income>
+    <incomeComment xsi:nil="true"/>
+    <incomeSource xsi:nil="true"/>
+    <relativeOf xsi:nil="true"/>
+    <relationType xsi:nil="true"/>
+    <realties>
+      <realty>
+        <RealtyName>жилой дом (пользование)</RealtyName>
+        <realtyType>2</realtyType>
+        <objectType>8</objectType>
+        <square>92.6</square>
+        <country>6</country>
+      </realty>
+    </realties>
+    <transports>
+      <transport>
+        <transportName>легковой автомобиль Toyota «Prius»</transportName>
+      </transport>
+    </transports>
+  </person>
+  <person>
+    <id>8</id>
+    <name xsi:nil="true"/>
+    <position xsi:nil="true"/>
+    <income>0.0</income>
+    <incomeComment xsi:nil="true"/>
+    <incomeSource xsi:nil="true"/>
+    <relativeOf>7</relativeOf>
+    <relationType>3</relationType>
+    <realties>
+      <realty>
+        <RealtyName>жилой дом (пользование)</RealtyName>
+        <realtyType>2</realtyType>
+        <objectType>8</objectType>
+        <square>92.6</square>
+        <country>6</country>
+      </realty>
+    </realties>
+    <transports xsi:nil="true"/>
+  </person>
+  <person>
+    <id>9</id>
+    <name>Сидоренко Т.И.</name>
+    <position>начальник управления по законотворчеству, организационной и методической работе аппарата Законодательной Думы Хабаровского края</position>
+    <income>1947834.0</income>
+    <incomeComment xsi:nil="true"/>
+    <incomeSource xsi:nil="true"/>
+    <relativeOf xsi:nil="true"/>
+    <relationType xsi:nil="true"/>
+    <realties>
+      <realty>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
+        <RealtyName>квартира (собственность)</RealtyName>
+        <realtyType>1</realtyType>
+        <objectType>7</objectType>
+        <square>84.7</square>
+        <country>6</country>
+      </realty>
+    </realties>
+    <transports xsi:nil="true"/>
+  </person>
+  <person>
+    <id>10</id>
+    <name xsi:nil="true"/>
+    <position xsi:nil="true"/>
+    <income>294311.0</income>
+    <incomeComment xsi:nil="true"/>
+    <incomeSource xsi:nil="true"/>
+    <relativeOf>9</relativeOf>
+    <relationType>1</relationType>
+    <realties>
+      <realty>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
+        <RealtyName>гаражный бокс (собственность)</RealtyName>
+        <realtyType>1</realtyType>
+        <objectType>8</objectType>
+        <square>22.8</square>
+        <country>6</country>
+      </realty>
+      <realty>
+        <RealtyName>квартира (пользование)</RealtyName>
+        <realtyType>2</realtyType>
+        <objectType>7</objectType>
+        <square>84.7</square>
+        <country>6</country>
+      </realty>
+    </realties>
+    <transports>
+      <transport>
+        <transportName>легковой автомобиль Toyota «Wish»</transportName>
+      </transport>
+    </transports>
+  </person>
+  <person>
+    <id>11</id>
+    <name>Литвинюк М.Н.</name>
+    <position>начальник правового управления аппарата Законодательной Думы Хабаровского края</position>
+    <income>1709260.0</income>
+    <incomeComment xsi:nil="true"/>
+    <incomeSource xsi:nil="true"/>
+    <relativeOf xsi:nil="true"/>
+    <relationType xsi:nil="true"/>
+    <realties>
+      <realty>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
+        <RealtyName>квартира (собственность)</RealtyName>
+        <realtyType>1</realtyType>
+        <objectType>7</objectType>
+        <square>61.2</square>
+        <country>6</country>
+      </realty>
+      <realty>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
+        <RealtyName>гараж (собственность)</RealtyName>
+        <realtyType>1</realtyType>
+        <objectType>8</objectType>
+        <square>23.0</square>
+        <country>6</country>
+      </realty>
+      <realty>
+        <RealtyName>земельный участок (аренда)</RealtyName>
+        <realtyType>2</realtyType>
+        <objectType>8</objectType>
+        <square>23.0</square>
+        <country>6</country>
+      </realty>
+    </realties>
+    <transports xsi:nil="true"/>
+  </person>
+  <person>
+    <id>12</id>
+    <name xsi:nil="true"/>
+    <position xsi:nil="true"/>
+    <income>215434.0</income>
+    <incomeComment xsi:nil="true"/>
+    <incomeSource xsi:nil="true"/>
+    <relativeOf>11</relativeOf>
+    <relationType>1</relationType>
+    <realties>
+      <realty>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
+        <RealtyName>квартира (собственность)</RealtyName>
+        <realtyType>1</realtyType>
+        <objectType>7</objectType>
+        <square>50.4</square>
+        <country>6</country>
+      </realty>
+      <realty>
+        <RealtyName>квартира (пользование)</RealtyName>
+        <realtyType>2</realtyType>
+        <objectType>7</objectType>
+        <square>61.2</square>
+        <country>6</country>
+      </realty>
+    </realties>
+    <transports xsi:nil="true"/>
+  </person>
+  <person>
+    <id>13</id>
+    <name>Лещенко Н.В.</name>
+    <position>начальник финансовой службы аппарата Законодательной Думы Хабаровского края</position>
+    <income>1803481.0</income>
+    <incomeComment xsi:nil="true"/>
+    <incomeSource xsi:nil="true"/>
+    <relativeOf xsi:nil="true"/>
+    <relationType xsi:nil="true"/>
+    <realties>
+      <realty>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
+        <RealtyName>квартира (собственность)</RealtyName>
+        <realtyType>1</realtyType>
+        <objectType>7</objectType>
+        <square>55.6</square>
+        <country>6</country>
+      </realty>
+    </realties>
+    <transports xsi:nil="true"/>
+  </person>
+  <person>
+    <id>14</id>
+    <name>Григорьева Г.Я.</name>
+    <position>начальник службы по документационному и хозяйственному обеспечению аппарата Законодательной Думы Хабаровского края</position>
+    <income>3147507.0</income>
+    <incomeComment xsi:nil="true"/>
+    <incomeSource xsi:nil="true"/>
+    <relativeOf xsi:nil="true"/>
+    <relationType xsi:nil="true"/>
+    <realties>
+      <realty>
+        <ownershipType>3</ownershipType>
+        <ownershipPart>0.5</ownershipPart>
+        <RealtyName>квартира (1/2 доли)(собственность)</RealtyName>
+        <realtyType>1</realtyType>
+        <objectType>7</objectType>
+        <square>51.0</square>
+        <country>6</country>
+      </realty>
+      <realty>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
+        <RealtyName>квартира (собственность)</RealtyName>
+        <realtyType>1</realtyType>
+        <objectType>7</objectType>
+        <square>51.0</square>
+        <country>6</country>
+      </realty>
+    </realties>
+    <transports>
+      <transport>
+        <transportName>легковой автомобиль Toyota «Corolla»</transportName>
+      </transport>
+    </transports>
+  </person>
+  <person>
+    <id>15</id>
+    <name xsi:nil="true"/>
+    <position xsi:nil="true"/>
+    <income>709415.0</income>
+    <incomeComment xsi:nil="true"/>
+    <incomeSource xsi:nil="true"/>
+    <relativeOf>14</relativeOf>
+    <relationType>1</relationType>
+    <realties>
+      <realty>
+        <RealtyName>квартира (пользование)</RealtyName>
+        <realtyType>2</realtyType>
+        <objectType>7</objectType>
+        <square>51.0</square>
+        <country>6</country>
+      </realty>
+    </realties>
+    <transports xsi:nil="true"/>
+  </person>
+  <person>
+    <id>16</id>
+    <name>Светлая И.Б.</name>
+    <position>начальник пресс-службы Законодательной Думы Хабаровского края</position>
+    <income>1674985.0</income>
+    <incomeComment xsi:nil="true"/>
+    <incomeSource xsi:nil="true"/>
+    <relativeOf xsi:nil="true"/>
+    <relationType xsi:nil="true"/>
+    <realties>
+      <realty>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
+        <RealtyName>квартира (собственность)</RealtyName>
+        <realtyType>1</realtyType>
+        <objectType>7</objectType>
+        <square>61.7</square>
+        <country>6</country>
+      </realty>
+    </realties>
+    <transports xsi:nil="true"/>
+  </person>
+  <person>
+    <id>17</id>
+    <name xsi:nil="true"/>
+    <position xsi:nil="true"/>
+    <income>216165.0</income>
+    <incomeComment xsi:nil="true"/>
+    <incomeSource xsi:nil="true"/>
+    <relativeOf>16</relativeOf>
+    <relationType>1</relationType>
+    <realties>
+      <realty>
+        <RealtyName>квартира (пользование)</RealtyName>
+        <realtyType>2</realtyType>
+        <objectType>7</objectType>
+        <square>61.7</square>
+        <country>6</country>
+      </realty>
+    </realties>
+    <transports>
+      <transport>
+        <transportName>легковой автомобиль Nissan «X-Trail»</transportName>
+      </transport>
+    </transports>
+  </person>
+  <person>
+    <id>18</id>
+    <name>Брагина Е.В.</name>
+    <position>заместитель начальника управления по законотворчеству, организационной и методической работе – начальник отдела по законотворчеству и организационной работе управления по законотворчеству, организационной и методической работе аппарата Законодательной Думы Хабаровского края</position>
+    <income>1404680.0</income>
+    <incomeComment xsi:nil="true"/>
+    <incomeSource xsi:nil="true"/>
+    <relativeOf xsi:nil="true"/>
+    <relationType xsi:nil="true"/>
+    <realties>
+      <realty>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
+        <RealtyName>квартира (собственность)</RealtyName>
+        <realtyType>1</realtyType>
+        <objectType>7</objectType>
+        <square>59.2</square>
+        <country>6</country>
+      </realty>
+    </realties>
+    <transports xsi:nil="true"/>
+  </person>
+  <person>
+    <id>19</id>
+    <name>Кузнецова Т.Б.</name>
+    <position>заместитель начальника правового управления – начальник отдела правовой работы в сфере государственного устройства, местного самоуправления и в социальной сфере правового управления аппарата Законодательной Думы Хабаровского края</position>
+    <income>1372074.0</income>
+    <incomeComment xsi:nil="true"/>
+    <incomeSource xsi:nil="true"/>
+    <relativeOf xsi:nil="true"/>
+    <relationType xsi:nil="true"/>
+    <realties>
+      <realty>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
+        <RealtyName>квартира (собственность)</RealtyName>
+        <realtyType>1</realtyType>
+        <objectType>7</objectType>
+        <square>53.0</square>
+        <country>6</country>
+      </realty>
+    </realties>
+    <transports xsi:nil="true"/>
+  </person>
+  <person>
+    <id>20</id>
+    <name>Курашкин М.С.</name>
+    <position>начальник отдела правовой работы в сфере финансов и экономики правового управления аппарата Законодательной Думы Хабаровского края</position>
+    <income>1284162.0</income>
+    <incomeComment xsi:nil="true"/>
+    <incomeSource xsi:nil="true"/>
+    <relativeOf xsi:nil="true"/>
+    <relationType xsi:nil="true"/>
+    <realties>
+      <realty>
+        <RealtyName>квартира (пользование)</RealtyName>
+        <realtyType>2</realtyType>
+        <objectType>7</objectType>
+        <square>50.4</square>
+        <country>6</country>
+      </realty>
+    </realties>
+    <transports xsi:nil="true"/>
+  </person>
+  <person>
+    <id>21</id>
+    <name xsi:nil="true"/>
+    <position xsi:nil="true"/>
+    <income>393400.0</income>
+    <incomeComment xsi:nil="true"/>
+    <incomeSource xsi:nil="true"/>
+    <relativeOf>20</relativeOf>
+    <relationType>2</relationType>
+    <realties>
+      <realty>
+        <ownershipType>3</ownershipType>
+        <ownershipPart>0.5</ownershipPart>
+        <RealtyName>квартира (1/2 доли) (собственность)</RealtyName>
+        <realtyType>1</realtyType>
+        <objectType>7</objectType>
+        <square>64.0</square>
+        <country>6</country>
+      </realty>
+      <realty>
+        <RealtyName>квартира (пользование)</RealtyName>
+        <realtyType>2</realtyType>
+        <objectType>7</objectType>
+        <square>50.4</square>
+        <country>6</country>
+      </realty>
+    </realties>
+    <transports xsi:nil="true"/>
+  </person>
+  <person>
+    <id>22</id>
+    <name xsi:nil="true"/>
+    <position xsi:nil="true"/>
+    <income>0.0</income>
+    <incomeComment xsi:nil="true"/>
+    <incomeSource xsi:nil="true"/>
+    <relativeOf>20</relativeOf>
+    <relationType>3</relationType>
+    <realties>
+      <realty>
+        <RealtyName>квартира (пользование)</RealtyName>
+        <realtyType>2</realtyType>
+        <objectType>7</objectType>
+        <square>50.4</square>
+        <country>6</country>
+      </realty>
+    </realties>
+    <transports xsi:nil="true"/>
+  </person>
+  <person>
+    <id>23</id>
+    <name>Чириканов С.Г.</name>
+    <position>начальник отдела компьютерного обеспечения, информационных технологий и телекоммуникаций аппарата Законодательной Думы Хабаровского края</position>
+    <income>1271129.0</income>
+    <incomeComment xsi:nil="true"/>
+    <incomeSource xsi:nil="true"/>
+    <relativeOf xsi:nil="true"/>
+    <relationType xsi:nil="true"/>
+    <realties>
+      <realty>
+        <ownershipType>3</ownershipType>
+        <ownershipPart>0.5</ownershipPart>
+        <RealtyName>квартира (1/2 доли) (собственность)</RealtyName>
+        <realtyType>1</realtyType>
+        <objectType>7</objectType>
+        <square>46.7</square>
+        <country>6</country>
+      </realty>
+      <realty>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
+        <RealtyName>квартира (собственность)</RealtyName>
+        <realtyType>1</realtyType>
+        <objectType>7</objectType>
+        <square>69.6</square>
+        <country>6</country>
+      </realty>
+    </realties>
+    <transports xsi:nil="true"/>
+  </person>
+  <person>
+    <id>24</id>
+    <name xsi:nil="true"/>
+    <position xsi:nil="true"/>
+    <income>249705.0</income>
+    <incomeComment xsi:nil="true"/>
+    <incomeSource xsi:nil="true"/>
+    <relativeOf>23</relativeOf>
+    <relationType>2</relationType>
+    <realties>
+      <realty>
+        <ownershipType>3</ownershipType>
+        <ownershipPart>0.5</ownershipPart>
+        <RealtyName>квартира (1/2 доли) (собственность)</RealtyName>
+        <realtyType>1</realtyType>
+        <objectType>7</objectType>
+        <square>65.6</square>
+        <country>6</country>
+      </realty>
+      <realty>
+        <RealtyName>квартира (пользование)</RealtyName>
+        <realtyType>2</realtyType>
+        <objectType>7</objectType>
+        <square>69.6</square>
+        <country>6</country>
+      </realty>
+    </realties>
+    <transports>
+      <transport>
+        <transportName>легковой автомобиль Toyota «Prius»</transportName>
+      </transport>
+    </transports>
+  </person>
+  <person>
+    <id>25</id>
+    <name xsi:nil="true"/>
+    <position xsi:nil="true"/>
+    <income>0.0</income>
+    <incomeComment xsi:nil="true"/>
+    <incomeSource xsi:nil="true"/>
+    <relativeOf>23</relativeOf>
+    <relationType>3</relationType>
+    <realties>
+      <realty>
+        <ownershipType>3</ownershipType>
+        <ownershipPart>0.5</ownershipPart>
+        <RealtyName>квартира (1/2 доли) (собственность)</RealtyName>
+        <realtyType>1</realtyType>
+        <objectType>7</objectType>
+        <square>46.7</square>
+        <country>6</country>
+      </realty>
+      <realty>
+        <RealtyName>квартира (пользование)</RealtyName>
+        <realtyType>2</realtyType>
+        <objectType>7</objectType>
+        <square>69.6</square>
+        <country>6</country>
+      </realty>
+    </realties>
+    <transports xsi:nil="true"/>
+  </person>
+  <person>
+    <id>26</id>
+    <name>Цыбрина В.В.</name>
+    <position>заведующий сектором по вопросам государственной службы и кадров аппарата Законодательной Думы Хабаровского края</position>
+    <income>1014123.0</income>
+    <incomeComment xsi:nil="true"/>
+    <incomeSource xsi:nil="true"/>
+    <relativeOf xsi:nil="true"/>
+    <relationType xsi:nil="true"/>
+    <realties>
+      <realty>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
+        <RealtyName>квартира (собственность)</RealtyName>
+        <realtyType>1</realtyType>
+        <objectType>7</objectType>
+        <square>36.4</square>
+        <country>6</country>
+      </realty>
+    </realties>
+    <transports xsi:nil="true"/>
+  </person>
+  <person>
+    <id>27</id>
+    <name xsi:nil="true"/>
+    <position xsi:nil="true"/>
+    <income>467006.0</income>
+    <incomeComment xsi:nil="true"/>
+    <incomeSource xsi:nil="true"/>
+    <relativeOf>26</relativeOf>
+    <relationType>1</relationType>
+    <realties>
+      <realty>
+        <RealtyName>квартира (пользование)</RealtyName>
+        <realtyType>2</realtyType>
+        <objectType>7</objectType>
+        <square>36.4</square>
+        <country>6</country>
+      </realty>
+      <realty>
+        <RealtyName>гараж (пользование)</RealtyName>
+        <realtyType>2</realtyType>
+        <objectType>8</objectType>
+        <square>24.0</square>
+        <country>6</country>
+      </realty>
+      <realty>
+        <RealtyName>земельный участок (аренда)</RealtyName>
+        <realtyType>2</realtyType>
+        <objectType>8</objectType>
+        <square>24.0</square>
+        <country>6</country>
+      </realty>
+    </realties>
+    <transports>
+      <transport>
+        <transportName>легковой автомобиль «Land Cruiser Prado»</transportName>
+      </transport>
+    </transports>
+  </person>
+  <person>
+    <id>28</id>
+    <name>Трухина А.А.</name>
+    <position>главный специалист службы по документационному и хозяйственному обеспечению аппарата Законодательной Думы Хабаровского края (по вопросам размещения заказов на поставки товаров, выполнение работ, оказание услуг для государственных нужд)</position>
+    <income>903791.0</income>
+    <incomeComment xsi:nil="true"/>
+    <incomeSource xsi:nil="true"/>
+    <relativeOf xsi:nil="true"/>
+    <relationType xsi:nil="true"/>
+    <realties>
+      <realty>
+        <RealtyName>квартира (пользование)</RealtyName>
+        <realtyType>2</realtyType>
+        <objectType>7</objectType>
+        <square>65.4</square>
+        <country>6</country>
+      </realty>
+    </realties>
+    <transports xsi:nil="true"/>
+  </person>
+</persons>

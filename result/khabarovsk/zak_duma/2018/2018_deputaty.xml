@@ -68,6 +68,7 @@
         <country>6</country>
       </realty>
     </realties>
+    <transports xsi:nil="true"/>
   </person>
   <person>
     <id>2</id>
@@ -114,6 +115,11 @@
         <country>6</country>
       </realty>
     </realties>
+    <transports>
+      <transport>
+        <transportName>автомобиль легковой Volkswagen Touareg</transportName>
+      </transport>
+    </transports>
   </person>
   <person>
     <id>3</id>
@@ -158,6 +164,7 @@
         <country>6</country>
       </realty>
     </realties>
+    <transports xsi:nil="true"/>
   </person>
   <person>
     <id>4</id>
@@ -174,7 +181,7 @@
         <ownershipPart xsi:nil="true"/>
         <RealtyName>земельный участок садовый, индивидуальная собственность</RealtyName>
         <realtyType>1</realtyType>
-        <objectType>8</objectType>
+        <objectType>1</objectType>
         <square>2209.0</square>
         <country>6</country>
       </realty>
@@ -312,6 +319,11 @@
         <country>6</country>
       </realty>
     </realties>
+    <transports>
+      <transport>
+        <transportName>автомобиль легковой Subaru Tribeca</transportName>
+      </transport>
+    </transports>
   </person>
   <person>
     <id>5</id>
@@ -439,6 +451,14 @@
         <country>6</country>
       </realty>
     </realties>
+    <transports>
+      <transport>
+        <transportName>а/м легковой Toyota Lexus LХ-570</transportName>
+      </transport>
+      <transport>
+        <transportName>а/м легковой Ford</transportName>
+      </transport>
+    </transports>
   </person>
   <person>
     <id>6</id>
@@ -485,6 +505,20 @@
         <country>6</country>
       </realty>
     </realties>
+    <transports>
+      <transport>
+        <transportName>автомобиль легковой Toyota Lexus NX200T</transportName>
+      </transport>
+      <transport>
+        <transportName>мототранспортные средства мотоциклы Honda X11</transportName>
+      </transport>
+      <transport>
+        <transportName>мототранспортные средства Suzuki Boulevard</transportName>
+      </transport>
+      <transport>
+        <transportName>мототранспортные средства водный транспорт – скутер Yamaha</transportName>
+      </transport>
+    </transports>
   </person>
   <person>
     <id>7</id>
@@ -563,6 +597,11 @@
         <country>6</country>
       </realty>
     </realties>
+    <transports>
+      <transport>
+        <transportName>автомобиль легковой Toyota Lexus GX-470</transportName>
+      </transport>
+    </transports>
   </person>
   <person>
     <id>8</id>
@@ -584,6 +623,11 @@
         <country>6</country>
       </realty>
     </realties>
+    <transports>
+      <transport>
+        <transportName>автомобиль легковой Mazda Premacy</transportName>
+      </transport>
+    </transports>
   </person>
   <person>
     <id>9</id>
@@ -603,6 +647,11 @@
         <country>6</country>
       </realty>
     </realties>
+    <transports>
+      <transport>
+        <transportName>автомобиль легковой Toyota Regius Ace</transportName>
+      </transport>
+    </transports>
   </person>
   <person>
     <id>10</id>
@@ -631,6 +680,7 @@
         <country>6</country>
       </realty>
     </realties>
+    <transports xsi:nil="true"/>
   </person>
   <person>
     <id>11</id>
@@ -652,6 +702,7 @@
         <country>6</country>
       </realty>
     </realties>
+    <transports xsi:nil="true"/>
   </person>
   <person>
     <id>12</id>
@@ -696,6 +747,20 @@
         <country>6</country>
       </realty>
     </realties>
+    <transports>
+      <transport>
+        <transportName>автомобиль легковой Toyota Hilux</transportName>
+      </transport>
+      <transport>
+        <transportName>автомобиль грузовой МАЗ 5334</transportName>
+      </transport>
+      <transport>
+        <transportName>водный транспорт – мотолодка</transportName>
+      </transport>
+      <transport>
+        <transportName>иные транспортные средства – прицеп для перевозки груза МЗСА 8117711</transportName>
+      </transport>
+    </transports>
   </person>
   <person>
     <id>13</id>
@@ -787,6 +852,86 @@
         <country>6</country>
       </realty>
     </realties>
+    <transports>
+      <transport>
+        <transportName>а/м легковой Toyota HIACE</transportName>
+      </transport>
+      <transport>
+        <transportName>а/м легковой Toyota HIACE</transportName>
+      </transport>
+      <transport>
+        <transportName>а/м легковой Toyota Land Cruiser</transportName>
+      </transport>
+      <transport>
+        <transportName>а/м грузовой ЗИЛ 130 В</transportName>
+      </transport>
+      <transport>
+        <transportName>а/м грузовой Isuzu Forward</transportName>
+      </transport>
+      <transport>
+        <transportName>а/м грузовой Toyota Dyna</transportName>
+      </transport>
+      <transport>
+        <transportName>а/м грузовой Mitsubishi Canter</transportName>
+      </transport>
+      <transport>
+        <transportName>катер «РИФ»</transportName>
+      </transport>
+      <transport>
+        <transportName>Моторная лодка М-1 А-01-1259</transportName>
+      </transport>
+      <transport>
+        <transportName>Моторная лодка М-2 А-01-1260</transportName>
+      </transport>
+      <transport>
+        <transportName>Моторная лодка М-3 А-01-1261</transportName>
+      </transport>
+      <transport>
+        <transportName>Моторная лодка М-4 А-01-1262</transportName>
+      </transport>
+      <transport>
+        <transportName>Моторная лодка М-5 А-01-1263</transportName>
+      </transport>
+      <transport>
+        <transportName>Моторная лодка М-6 А-01-1264</transportName>
+      </transport>
+      <transport>
+        <transportName>Моторная лодка М-7 А-01-1265</transportName>
+      </transport>
+      <transport>
+        <transportName>Моторная лодка М-8 А-01-1266</transportName>
+      </transport>
+      <transport>
+        <transportName>Моторная лодка М-9 А-01-1267</transportName>
+      </transport>
+      <transport>
+        <transportName>Моторная лодка М-10 А-01-1258</transportName>
+      </transport>
+      <transport>
+        <transportName>Моторная лодка М-11 А-01-1257</transportName>
+      </transport>
+      <transport>
+        <transportName>Моторная лодка М-12 А-01-1256</transportName>
+      </transport>
+      <transport>
+        <transportName>Моторная лодка М-13 А-01-1255</transportName>
+      </transport>
+      <transport>
+        <transportName>Моторная лодка М-14 А-01-1254</transportName>
+      </transport>
+      <transport>
+        <transportName>Моторная лодка «Джонка-1 А-01-1661</transportName>
+      </transport>
+      <transport>
+        <transportName>Моторная лодка «Джонка-2» А-01-1660</transportName>
+      </transport>
+      <transport>
+        <transportName>иные транспортные средства специализированный автокран МАЗ 5334</transportName>
+      </transport>
+      <transport>
+        <transportName>иные транспортные средства полуприцеп с бортовой платформой ОДА 3885</transportName>
+      </transport>
+    </transports>
   </person>
   <person>
     <id>14</id>
@@ -817,6 +962,7 @@
         <country>6</country>
       </realty>
     </realties>
+    <transports xsi:nil="true"/>
   </person>
   <person>
     <id>15</id>
@@ -845,6 +991,7 @@
         <country>6</country>
       </realty>
     </realties>
+    <transports xsi:nil="true"/>
   </person>
   <person>
     <id>16</id>
@@ -873,6 +1020,7 @@
         <country>6</country>
       </realty>
     </realties>
+    <transports xsi:nil="true"/>
   </person>
   <person>
     <id>17</id>
@@ -892,6 +1040,7 @@
         <country>6</country>
       </realty>
     </realties>
+    <transports xsi:nil="true"/>
   </person>
   <person>
     <id>18</id>
@@ -920,6 +1069,7 @@
         <country>6</country>
       </realty>
     </realties>
+    <transports xsi:nil="true"/>
   </person>
   <person>
     <id>19</id>
@@ -936,7 +1086,7 @@
         <ownershipPart xsi:nil="true"/>
         <RealtyName>земельный участок садовый, индивидуальная собственность</RealtyName>
         <realtyType>1</realtyType>
-        <objectType>8</objectType>
+        <objectType>1</objectType>
         <square>800.0</square>
         <country>6</country>
       </realty>
@@ -993,6 +1143,14 @@
         <country>6</country>
       </realty>
     </realties>
+    <transports>
+      <transport>
+        <transportName>а/м легковой ВАЗ-2121 Нива</transportName>
+      </transport>
+      <transport>
+        <transportName>а/м легковой Toyota Land Cruiser Prado</transportName>
+      </transport>
+    </transports>
   </person>
   <person>
     <id>20</id>
@@ -1012,6 +1170,7 @@
         <country>6</country>
       </realty>
     </realties>
+    <transports xsi:nil="true"/>
   </person>
   <person>
     <id>21</id>
@@ -1028,7 +1187,7 @@
         <ownershipPart xsi:nil="true"/>
         <RealtyName>земельный участок садовый, индивидуальная собственность</RealtyName>
         <realtyType>1</realtyType>
-        <objectType>8</objectType>
+        <objectType>1</objectType>
         <square>600.0</square>
         <country>6</country>
       </realty>
@@ -1042,6 +1201,11 @@
         <country>6</country>
       </realty>
     </realties>
+    <transports>
+      <transport>
+        <transportName>автомобиль легковой Toyota Hilux Surf</transportName>
+      </transport>
+    </transports>
   </person>
   <person>
     <id>22</id>
@@ -1072,6 +1236,11 @@
         <country>6</country>
       </realty>
     </realties>
+    <transports>
+      <transport>
+        <transportName>автомобиль легковой Toyota Harrier</transportName>
+      </transport>
+    </transports>
   </person>
   <person>
     <id>23</id>
@@ -1111,6 +1280,11 @@
         <country>6</country>
       </realty>
     </realties>
+    <transports>
+      <transport>
+        <transportName>автомобиль легковой Toyota Vitz</transportName>
+      </transport>
+    </transports>
   </person>
   <person>
     <id>24</id>
@@ -1130,6 +1304,7 @@
         <country>6</country>
       </realty>
     </realties>
+    <transports xsi:nil="true"/>
   </person>
   <person>
     <id>25</id>
@@ -1223,6 +1398,44 @@
         <country>6</country>
       </realty>
     </realties>
+    <transports>
+      <transport>
+        <transportName>а/м легковой Nissan Patrol</transportName>
+      </transport>
+      <transport>
+        <transportName>а/м легковой Mitsubishi ASX</transportName>
+      </transport>
+      <transport>
+        <transportName>а/м легковой Toyota Lexus LX570</transportName>
+      </transport>
+      <transport>
+        <transportName>а/м легковой Mazda Bongo</transportName>
+      </transport>
+      <transport>
+        <transportName>а/м грузовой ЗИЛ 131</transportName>
+      </transport>
+      <transport>
+        <transportName>а/м грузовой КАМАЗ 65115</transportName>
+      </transport>
+      <transport>
+        <transportName>а/м грузовой Mitsubishi Canter</transportName>
+      </transport>
+      <transport>
+        <transportName>а/м грузовой Nissan Atlas</transportName>
+      </transport>
+      <transport>
+        <transportName>водный транспорт – лодка</transportName>
+      </transport>
+      <transport>
+        <transportName>иные транспортные средства прицеп для перевозки груза МЗСА 817711</transportName>
+      </transport>
+      <transport>
+        <transportName>иные транспортные средства гусеничный снегоболотоход ГАЗ 34039-32</transportName>
+      </transport>
+      <transport>
+        <transportName>иные транспортные средства погрузчик SZM NEO L 200</transportName>
+      </transport>
+    </transports>
   </person>
   <person>
     <id>26</id>
@@ -1239,7 +1452,7 @@
         <ownershipPart xsi:nil="true"/>
         <RealtyName>земельный участок садовый, индивидуальная собственность</RealtyName>
         <realtyType>1</realtyType>
-        <objectType>8</objectType>
+        <objectType>1</objectType>
         <square>616.0</square>
         <country>6</country>
       </realty>
@@ -1289,6 +1502,7 @@
         <country>6</country>
       </realty>
     </realties>
+    <transports xsi:nil="true"/>
   </person>
   <person>
     <id>27</id>
@@ -1310,6 +1524,7 @@
         <country>6</country>
       </realty>
     </realties>
+    <transports xsi:nil="true"/>
   </person>
   <person>
     <id>28</id>
@@ -1388,6 +1603,17 @@
         <country>6</country>
       </realty>
     </realties>
+    <transports>
+      <transport>
+        <transportName>а/м легковой Toyota Caldina</transportName>
+      </transport>
+      <transport>
+        <transportName>а/м легковой Honda CR-V</transportName>
+      </transport>
+      <transport>
+        <transportName>водный транспорт – катер Yamaha FR-21</transportName>
+      </transport>
+    </transports>
   </person>
   <person>
     <id>29</id>
@@ -1436,6 +1662,7 @@
         <country>6</country>
       </realty>
     </realties>
+    <transports xsi:nil="true"/>
   </person>
   <person>
     <id>30</id>
@@ -1455,6 +1682,7 @@
         <country>6</country>
       </realty>
     </realties>
+    <transports xsi:nil="true"/>
   </person>
   <person>
     <id>31</id>
@@ -1474,6 +1702,7 @@
         <country>6</country>
       </realty>
     </realties>
+    <transports xsi:nil="true"/>
   </person>
   <person>
     <id>32</id>
@@ -1504,6 +1733,17 @@
         <country>6</country>
       </realty>
     </realties>
+    <transports>
+      <transport>
+        <transportName>автомобиль легковой Toyota Land Cruiser</transportName>
+      </transport>
+      <transport>
+        <transportName>водный транспорт – катер «Амур»</transportName>
+      </transport>
+      <transport>
+        <transportName>иные транспортные средства – прицеп Бизнес 121550</transportName>
+      </transport>
+    </transports>
   </person>
   <person>
     <id>33</id>
@@ -1525,6 +1765,7 @@
         <country>6</country>
       </realty>
     </realties>
+    <transports xsi:nil="true"/>
   </person>
   <person>
     <id>34</id>
@@ -1553,6 +1794,17 @@
         <country>6</country>
       </realty>
     </realties>
+    <transports>
+      <transport>
+        <transportName>а/м легковой Toyota Land Cruiser 200</transportName>
+      </transport>
+      <transport>
+        <transportName>а/м легковой ВАЗ 2121</transportName>
+      </transport>
+      <transport>
+        <transportName>иные транспортные средства – прицеп для перевозки грузов Фермер 111400</transportName>
+      </transport>
+    </transports>
   </person>
   <person>
     <id>35</id>
@@ -1572,6 +1824,7 @@
         <country>6</country>
       </realty>
     </realties>
+    <transports xsi:nil="true"/>
   </person>
   <person>
     <id>36</id>
@@ -1591,6 +1844,7 @@
         <country>6</country>
       </realty>
     </realties>
+    <transports xsi:nil="true"/>
   </person>
   <person>
     <id>37</id>
@@ -1610,6 +1864,14 @@
         <country>6</country>
       </realty>
     </realties>
+    <transports>
+      <transport>
+        <transportName>автомобиль легковой Nissan Patrol</transportName>
+      </transport>
+      <transport>
+        <transportName>мототранспортное средство – мотоцикл Yamaha V-Star</transportName>
+      </transport>
+    </transports>
   </person>
   <person>
     <id>38</id>
@@ -1629,6 +1891,7 @@
         <country>6</country>
       </realty>
     </realties>
+    <transports xsi:nil="true"/>
   </person>
   <person>
     <id>39</id>
@@ -1659,6 +1922,11 @@
         <country>6</country>
       </realty>
     </realties>
+    <transports>
+      <transport>
+        <transportName>автомобиль легковой Ford Kuga</transportName>
+      </transport>
+    </transports>
   </person>
   <person>
     <id>40</id>
@@ -1680,6 +1948,11 @@
         <country>6</country>
       </realty>
     </realties>
+    <transports>
+      <transport>
+        <transportName>автомобиль легковой ВАЗ 21063</transportName>
+      </transport>
+    </transports>
   </person>
   <person>
     <id>41</id>
@@ -1699,6 +1972,11 @@
         <country>6</country>
       </realty>
     </realties>
+    <transports>
+      <transport>
+        <transportName>автомобиль легковой Mitsubishi Pajero</transportName>
+      </transport>
+    </transports>
   </person>
   <person>
     <id>42</id>
@@ -1720,6 +1998,7 @@
         <country>6</country>
       </realty>
     </realties>
+    <transports xsi:nil="true"/>
   </person>
   <person>
     <id>43</id>
@@ -1755,6 +2034,11 @@
         <country>6</country>
       </realty>
     </realties>
+    <transports>
+      <transport>
+        <transportName>автомобиль легковой Nissan Prairie Joy</transportName>
+      </transport>
+    </transports>
   </person>
   <person>
     <id>44</id>
@@ -1771,7 +2055,7 @@
         <ownershipPart xsi:nil="true"/>
         <RealtyName>земельный участок садовый, индивидуальная собственность</RealtyName>
         <realtyType>1</realtyType>
-        <objectType>8</objectType>
+        <objectType>1</objectType>
         <square>791.0</square>
         <country>6</country>
       </realty>
@@ -1785,6 +2069,7 @@
         <country>6</country>
       </realty>
     </realties>
+    <transports xsi:nil="true"/>
   </person>
   <person>
     <id>45</id>
@@ -1824,6 +2109,11 @@
         <country>6</country>
       </realty>
     </realties>
+    <transports>
+      <transport>
+        <transportName>автомобиль легковой Lexus LХ-570</transportName>
+      </transport>
+    </transports>
   </person>
   <person>
     <id>46</id>
@@ -1872,6 +2162,11 @@
         <country>6</country>
       </realty>
     </realties>
+    <transports>
+      <transport>
+        <transportName>автомобиль грузовой Kia Bongo III</transportName>
+      </transport>
+    </transports>
   </person>
   <person>
     <id>47</id>
@@ -1909,6 +2204,14 @@
         <country>6</country>
       </realty>
     </realties>
+    <transports>
+      <transport>
+        <transportName>а/м легковой Toyota Lexus LX-470</transportName>
+      </transport>
+      <transport>
+        <transportName>а/м легковой Subaru Forester</transportName>
+      </transport>
+    </transports>
   </person>
   <person>
     <id>48</id>
@@ -1955,6 +2258,11 @@
         <country>6</country>
       </realty>
     </realties>
+    <transports>
+      <transport>
+        <transportName>автомобиль легковой Toyota Lexus RX 450H</transportName>
+      </transport>
+    </transports>
   </person>
   <person>
     <id>49</id>
@@ -1974,6 +2282,7 @@
         <country>6</country>
       </realty>
     </realties>
+    <transports xsi:nil="true"/>
   </person>
   <person>
     <id>50</id>
@@ -2004,6 +2313,32 @@
         <country>6</country>
       </realty>
     </realties>
+    <transports>
+      <transport>
+        <transportName>а/м грузовой Mazda Titan</transportName>
+      </transport>
+      <transport>
+        <transportName>а/м грузовой Mitsubishi Canter</transportName>
+      </transport>
+      <transport>
+        <transportName>а/м грузовой Hino Ranger</transportName>
+      </transport>
+      <transport>
+        <transportName>а/м грузовой Isuzu Elf</transportName>
+      </transport>
+      <transport>
+        <transportName>мототранспортное средство – снегоход «Буран»</transportName>
+      </transport>
+      <transport>
+        <transportName>бульдозер Komatsu Д20Р</transportName>
+      </transport>
+      <transport>
+        <transportName>маломерное судно «Гладиатор»</transportName>
+      </transport>
+      <transport>
+        <transportName>лодка «Крым»</transportName>
+      </transport>
+    </transports>
   </person>
   <person>
     <id>51</id>
@@ -2077,6 +2412,11 @@
         <country>6</country>
       </realty>
     </realties>
+    <transports>
+      <transport>
+        <transportName>автомобиль легковой Toyota RAV4</transportName>
+      </transport>
+    </transports>
   </person>
   <person>
     <id>52</id>
@@ -2107,6 +2447,7 @@
         <country>6</country>
       </realty>
     </realties>
+    <transports xsi:nil="true"/>
   </person>
   <person>
     <id>53</id>
@@ -2155,6 +2496,7 @@
         <country>6</country>
       </realty>
     </realties>
+    <transports xsi:nil="true"/>
   </person>
   <person>
     <id>54</id>
@@ -2176,6 +2518,7 @@
         <country>6</country>
       </realty>
     </realties>
+    <transports xsi:nil="true"/>
   </person>
   <person>
     <id>55</id>
@@ -2195,6 +2538,11 @@
         <country>6</country>
       </realty>
     </realties>
+    <transports>
+      <transport>
+        <transportName>автомобиль легковой Toyota Land Cruiser Prado</transportName>
+      </transport>
+    </transports>
   </person>
   <person>
     <id>56</id>
@@ -2232,6 +2580,7 @@
         <country>6</country>
       </realty>
     </realties>
+    <transports xsi:nil="true"/>
   </person>
   <person>
     <id>57</id>
@@ -2290,6 +2639,11 @@
         <country>6</country>
       </realty>
     </realties>
+    <transports>
+      <transport>
+        <transportName>автомобиль легковой Honda Mobilio Spike</transportName>
+      </transport>
+    </transports>
   </person>
   <person>
     <id>58</id>
@@ -2311,6 +2665,7 @@
         <country>6</country>
       </realty>
     </realties>
+    <transports xsi:nil="true"/>
   </person>
   <person>
     <id>59</id>
@@ -2350,6 +2705,7 @@
         <country>6</country>
       </realty>
     </realties>
+    <transports xsi:nil="true"/>
   </person>
   <person>
     <id>60</id>
@@ -2380,6 +2736,14 @@
         <country>6</country>
       </realty>
     </realties>
+    <transports>
+      <transport>
+        <transportName>а/м легковой Toyota Land Cruiser Prado</transportName>
+      </transport>
+      <transport>
+        <transportName>а/м легковой Toyota Sprinter</transportName>
+      </transport>
+    </transports>
   </person>
   <person>
     <id>61</id>
@@ -2396,7 +2760,7 @@
         <ownershipPart xsi:nil="true"/>
         <RealtyName>земельный участок садовый, индивидуальная собственность</RealtyName>
         <realtyType>1</realtyType>
-        <objectType>8</objectType>
+        <objectType>1</objectType>
         <square>1000.0</square>
         <country>6</country>
       </realty>
@@ -2419,6 +2783,7 @@
         <country>6</country>
       </realty>
     </realties>
+    <transports xsi:nil="true"/>
   </person>
   <person>
     <id>62</id>
@@ -2440,6 +2805,7 @@
         <country>6</country>
       </realty>
     </realties>
+    <transports xsi:nil="true"/>
   </person>
   <person>
     <id>63</id>
@@ -2506,6 +2872,11 @@
         <country>6</country>
       </realty>
     </realties>
+    <transports>
+      <transport>
+        <transportName>автомобиль легковой Toyota Land Cruiser Prado</transportName>
+      </transport>
+    </transports>
   </person>
   <person>
     <id>64</id>
@@ -2554,5 +2925,6 @@
         <country>6</country>
       </realty>
     </realties>
+    <transports xsi:nil="true"/>
   </person>
 </persons>
