@@ -1,0 +1,3 @@
+enum32
+python-docx
+lxml
