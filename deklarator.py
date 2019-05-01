@@ -58,7 +58,7 @@ class OwnershipType(Enum):
             return cls.INDIVIDUAL.value
         elif 'долевая' in name:
             return cls.PARTIAL.value
-        elif 'доли' in name:
+        elif 'доли' in name or 'доля' in name or '/' in name:
             return cls.PARTIAL.value
         else:
             return cls.INDIVIDUAL.value
@@ -89,7 +89,7 @@ class ObjectType(Enum):
     def get_value_by_name(cls, name):
         name = name.decode('utf-8').lower()
 
-        if u'садовый участок' in name:
+        if u'садовый участок' in name or u'садовым' in name:
             return cls.GARDEN.value
         elif u'садовый' in name:
             return cls.GARDEN.value

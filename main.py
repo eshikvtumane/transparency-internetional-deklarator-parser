@@ -110,7 +110,7 @@ if __name__ == '__main__':
     # doc = docx.Document('2015_Deputaty_(utochnionnye).docx')
     # doc = docx.Document('2017_Deputaty.docx')
     filename = '2013_Deputaty.docx'
-    filename = '2013_Sotrudniki_apparata.docx'
+    filename = '2011_Sotrudniki_apparata.docx'
     output_filename = '%s.xml' % filename.split('.')[0].lower()
     doc = docx.Document(filename)
 
@@ -129,7 +129,7 @@ if __name__ == '__main__':
         for idx, cell in enumerate(row.cells):
             if len(row.cells) == 7 and idx == 6:
                 data.append(cell.text.encode('utf-8').replace('  ', ' ').rstrip())
-            elif ('2012' in filename and len(row.cells) == 7):
+            elif ('2012' in filename or '2011' in filename) and len(row.cells) == 7:
                 if idx == 3 or idx == 4 or idx == 5:
                     data.append(cell.text.encode('utf-8'))
                 else:
@@ -158,6 +158,7 @@ if __name__ == '__main__':
         else:
             # if 'аренда' in data[3]:
             #     data[3] = data[3].replace('аренда', '(пользование)')
+            # if ('2011' or '2012') in filename:
             if '2012' in filename:
                 objects_list = [o.replace(',', '.') for o in data[3].split('\n') if o != '']
                 square_list = [s.replace(',', '.') for s in data[4].split('\n') if s != '']
@@ -169,7 +170,7 @@ if __name__ == '__main__':
                     depute.write_owner_for_old_files(objects_list[idx], square, country)
 
             else:
-                depute.write_owner_for_old_files(data[3], data[4], data[5])
+                depute.write_owner_for_old_files(data[3].replace('\n', ''), data[4].replace('\n', ''), data[5].replace('\n', ''))
             depute.set_machine(data[6])
 
     print('Create xml ...')
