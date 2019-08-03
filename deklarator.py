@@ -4,6 +4,8 @@ from enum import Enum
 
 from lxml import etree
 
+from transperency_internetional_dictionary import TIPatterns
+
 
 class Country(Enum):
     NOT_DETERMENATED = 0
@@ -48,9 +50,10 @@ class OwnershipType(Enum):
 
     @classmethod
     def get_ownership_value_by_name(cls, name):
+        name = TIPatterns().find_owntype(name)
         if '(собственность)' in name and 'дол' in name:
             return cls.PARTIAL.value
-        elif '(собственность)' in name:
+        elif '(собственность)' in name or 'в собственности':
             return cls.INDIVIDUAL.value
         elif 'индивидуальная' in name:
             return cls.INDIVIDUAL.value
@@ -61,8 +64,7 @@ class OwnershipType(Enum):
         elif 'доли' in name or 'доля' in name or '/' in name:
             return cls.PARTIAL.value
         else:
-            return cls.INDIVIDUAL.value
-            # return cls.NOT_DETERMENATED.value
+            return cls.NOT_DETERMENATED.value
 
 
 class ObjectType(Enum):
@@ -87,6 +89,7 @@ class ObjectType(Enum):
 
     @classmethod
     def get_value_by_name(cls, name):
+        name = TIPatterns().find_realestatetype(name)
         name = name.decode('utf-8').lower()
 
         if u'садовый участок' in name or u'садовым' in name:
@@ -105,7 +108,7 @@ class ObjectType(Enum):
             return cls.ROOM.value
         elif u'квартира' in name:
             return cls.FLAT.value
-        elif u'иное недвижимое имущество':
+        elif u'иное недвижимое имущество' or u'иное':
             return cls.DIFFERENT_REAL_RSTATE.value
         elif u'земельный участок' in name:
             return cls.GROUNG_PLACE.value

@@ -39,18 +39,18 @@ class Depute(object):
             self._machines_list.append(machine)
             type_machine = ''
             machines = []
+
             for machine in machine.split(';'):
                 machines += machine.split('\n')
 
             for machine in machines:
+                machine = machine.strip()
                 if ':' in machine:
                     type_machine = machine.split(':')[0]
 
-                    if 'автомобили легковые' in type_machine:
+                    if 'автомобили легковые' in type_machine or 'автомобиль легковой' in type_machine or 'легковые автомобили' in type_machine:
                         type_machine = 'а/м легковой'
-                    elif 'автомобиль легковой' in type_machine:
-                        type_machine = 'а/м легковой'
-                    elif 'автомобили грузовые' in type_machine:
+                    elif 'автомобили грузовые' in type_machine or 'грузовые автомобили' in type_machine or 'грузовой автомобиль' in type_machine:
                         type_machine = 'а/м грузовой'
                     elif 'моторные лодки' in type_machine:
                         type_machine = 'Моторная лодка'
@@ -58,11 +58,17 @@ class Depute(object):
                         type_machine = type_machine.replace('иные транспортные средства ', '')
                     elif 'водный транспорт' in type_machine:
                         type_machine = type_machine.replace('водный транспорт', '')
+                    elif 'водный мотоцикл' in type_machine:
+                        type_machine = type_machine.replace('водный мотоцикл', '')
                     elif 'мототранспортные средства' in type_machine:
                         type_machine = type_machine.replace('мототранспортное средство', '')
+                    elif 'водный мотоцикл' in type_machine:
+                        type_machine = type_machine.replace('водный мотоцикл', '')
                     elif Auto.is_auto(type_machine):
                         machine = type_machine
                         type_machine = ''
+                    else:
+                        type_machine = type_machine
                     machine = machine.split(':')[1].strip()
 
                     if machine:
@@ -70,23 +76,24 @@ class Depute(object):
                 # elif '' == machine:
                 #     type_machine = ''
                 else:
-                    if machine:
-                        if 'водный транспорт' == machine:
+                    if machine != '':
+                        machine_dict = [
+                            'водный транспорт', 'автомобили легковые', 'автомобиль легковой', 'легковой автомобиль',
+                            'мототранспортное средство мотоцикл', 'мототранспортное средство',
+                            'бульдозер', 'иные транспортные средства', 'автомобиль грузовой', 'грузовые автомобили',
+                            'водный мотоцикл', 'грузовой автомобиль', 'грузовой автомобиль', 'водный мотоцикл'
+                        ]
+
+                        if machine in machine_dict:
                             type_machine = machine
-                        elif 'автомобили легковые' == machine:
-                            type_machine = 'а/м легковой'
-                        elif 'автомобиль легковой' == machine:
-                            type_machine = 'а/м легковой'
-                        elif 'мототранспортное средство мотоцикл' == machine:
-                            type_machine = 'мототранспортное средство мотоцикл'
+                            continue
+
                         elif Auto.is_auto(type_machine):
                             machine = type_machine
                             type_machine = ''
-                            self.machines.append(('%s' % (machine)).strip().replace('  ', ' '))
-                        else:
-                            self.machines.append(('%s %s' % (type_machine, machine)).strip().replace('  ', ' '))
-                    # self.machines.append(machine.strip())
 
+                        self.machines.append(('%s %s' % (type_machine, machine)).strip().replace('  ', ' '))
+                    # self.machines.append(machine.strip())
 
     def clear_number(self, number):
         return number.replace(' ', '').replace(' ', '').replace(',', '.')
@@ -109,8 +116,8 @@ if __name__ == '__main__':
     # doc = docx.Document('2015_Sotrudniki_apparata.docx')
     # doc = docx.Document('2015_Deputaty_(utochnionnye).docx')
     # doc = docx.Document('2017_Deputaty.docx')
-    filename = '2013_Deputaty.docx'
-    filename = '2011_Sotrudniki_apparata.docx'
+    # filename = '2010_Deputaty.docx'
+    filename = '2018_Sotrudniki_apparata.docx'
     output_filename = '%s.xml' % filename.split('.')[0].lower()
     doc = docx.Document(filename)
 
@@ -128,12 +135,14 @@ if __name__ == '__main__':
         data = []
         for idx, cell in enumerate(row.cells):
             if len(row.cells) == 7 and idx == 6:
-                data.append(cell.text.encode('utf-8').replace('  ', ' ').rstrip())
+                data.append(cell.text.encode('utf-8').replace('–', ':').replace('  ', ' ').rstrip())
             elif ('2012' in filename or '2011' in filename) and len(row.cells) == 7:
                 if idx == 3 or idx == 4 or idx == 5:
                     data.append(cell.text.encode('utf-8'))
                 else:
                     data.append(cell.text.encode('utf-8').replace('\n', ' ').replace('  ', ' ').rstrip())
+            elif idx == 9:
+                data.append(cell.text.encode('utf-8').replace('–', ':').replace('  ', ' ').rstrip())
             elif idx == 10:
                 data.append(cell.text.encode('utf-8').replace('  ', ' ').rstrip())
             else:
