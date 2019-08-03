@@ -92,8 +92,8 @@
         <country>6</country>
       </realty>
       <realty>
-        <ownershipType>3</ownershipType>
-        <ownershipPart>0.5</ownershipPart>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
         <RealtyName>квартира (общая долевая собственность, 1/2)</RealtyName>
         <realtyType>1</realtyType>
         <objectType>7</objectType>
@@ -276,7 +276,10 @@
         <transportName>автомобиль легковой Toyota Land Cruiser Prado</transportName>
       </transport>
       <transport>
-        <transportName>мототранспортное средство мотоцикл Honda СВRS00RR</transportName>
+        <transportName>мототранспортное средство мотоцикл Honda</transportName>
+      </transport>
+      <transport>
+        <transportName>мототранспортное средство СВRS00RR</transportName>
       </transport>
     </transports>
   </person>
@@ -291,8 +294,8 @@
     <relationType>2</relationType>
     <realties>
       <realty>
-        <ownershipType>3</ownershipType>
-        <ownershipPart>0.333333333333</ownershipPart>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
         <RealtyName>квартира (общая долевая собственность, 1/3)</RealtyName>
         <realtyType>1</realtyType>
         <objectType>7</objectType>
@@ -313,8 +316,8 @@
     <relationType xsi:nil="true"/>
     <realties>
       <realty>
-        <ownershipType>3</ownershipType>
-        <ownershipPart>0.25</ownershipPart>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
         <RealtyName>квартира (общая долевая собственность, 1/4)</RealtyName>
         <realtyType>1</realtyType>
         <objectType>7</objectType>
@@ -364,8 +367,8 @@
     <relationType>2</relationType>
     <realties>
       <realty>
-        <ownershipType>3</ownershipType>
-        <ownershipPart>0.333333333333</ownershipPart>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
         <RealtyName>квартира (общая долевая собственность, 1/3)</RealtyName>
         <realtyType>1</realtyType>
         <objectType>7</objectType>
@@ -399,8 +402,8 @@
     <relationType>3</relationType>
     <realties>
       <realty>
-        <ownershipType>3</ownershipType>
-        <ownershipPart>0.333333333333</ownershipPart>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
         <RealtyName>квартира (общая долевая собственность, 1/3)</RealtyName>
         <realtyType>1</realtyType>
         <objectType>7</objectType>
@@ -663,8 +666,8 @@
     <relationType xsi:nil="true"/>
     <realties>
       <realty>
-        <ownershipType>3</ownershipType>
-        <ownershipPart>0.5</ownershipPart>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
         <RealtyName>земельный участок под индивидуальное жилищное строительство (общая долевая собственность 1/2)</RealtyName>
         <realtyType>1</realtyType>
         <objectType>8</objectType>
@@ -672,8 +675,8 @@
         <country>6</country>
       </realty>
       <realty>
-        <ownershipType>3</ownershipType>
-        <ownershipPart>0.5</ownershipPart>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
         <RealtyName>жилой дом (общая долевая собственность 1/2)</RealtyName>
         <realtyType>1</realtyType>
         <objectType>8</objectType>
@@ -681,8 +684,8 @@
         <country>6</country>
       </realty>
       <realty>
-        <ownershipType>3</ownershipType>
-        <ownershipPart>0.5</ownershipPart>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
         <RealtyName>квартира (общая долевая собственность 1/2)</RealtyName>
         <realtyType>1</realtyType>
         <objectType>7</objectType>
@@ -826,8 +829,8 @@
         <country>6</country>
       </realty>
       <realty>
-        <ownershipType>3</ownershipType>
-        <ownershipPart>0.5</ownershipPart>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
         <RealtyName>квартира (общая долевая собственность 1/2)</RealtyName>
         <realtyType>1</realtyType>
         <objectType>7</objectType>
@@ -862,8 +865,8 @@
     <relationType xsi:nil="true"/>
     <realties>
       <realty>
-        <ownershipType>3</ownershipType>
-        <ownershipPart>0.024</ownershipPart>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
         <RealtyName>земельный участок (общая долевая собственность, 12/500)</RealtyName>
         <realtyType>1</realtyType>
         <objectType>8</objectType>
@@ -871,8 +874,8 @@
         <country>6</country>
       </realty>
       <realty>
-        <ownershipType>3</ownershipType>
-        <ownershipPart>0.5</ownershipPart>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
         <RealtyName>квартира (общая долевая собственность, 1/2)</RealtyName>
         <realtyType>1</realtyType>
         <objectType>7</objectType>
@@ -922,8 +925,8 @@
     <relationType xsi:nil="true"/>
     <realties>
       <realty>
-        <ownershipType>3</ownershipType>
-        <ownershipPart>0.5</ownershipPart>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
         <RealtyName>земельный участок для ведения личного подсобного хозяйства (общая долевая собственность, 1/2)</RealtyName>
         <realtyType>1</realtyType>
         <objectType>8</objectType>
@@ -931,8 +934,8 @@
         <country>6</country>
       </realty>
       <realty>
-        <ownershipType>3</ownershipType>
-        <ownershipPart>0.5</ownershipPart>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
         <RealtyName>жилой дом (общая долевая собственность, 1/2)</RealtyName>
         <realtyType>1</realtyType>
         <objectType>8</objectType>
@@ -957,8 +960,8 @@
     <relationType>2</relationType>
     <realties>
       <realty>
-        <ownershipType>3</ownershipType>
-        <ownershipPart>0.5</ownershipPart>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
         <RealtyName>земельный участок для ведения личного подсобного хозяйства (общая долевая собственность, 1/2)</RealtyName>
         <realtyType>1</realtyType>
         <objectType>8</objectType>
@@ -966,8 +969,8 @@
         <country>6</country>
       </realty>
       <realty>
-        <ownershipType>3</ownershipType>
-        <ownershipPart>0.5</ownershipPart>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
         <RealtyName>жилой дом (общая долевая собственность, 1/2)</RealtyName>
         <realtyType>1</realtyType>
         <objectType>8</objectType>
@@ -1039,8 +1042,8 @@
         <country>6</country>
       </realty>
       <realty>
-        <ownershipType>3</ownershipType>
-        <ownershipPart>0.5</ownershipPart>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
         <RealtyName>квартира (общая долевая собственность, 1/2)</RealtyName>
         <realtyType>1</realtyType>
         <objectType>7</objectType>
@@ -1057,8 +1060,8 @@
         <country>6</country>
       </realty>
       <realty>
-        <ownershipType>3</ownershipType>
-        <ownershipPart>0.75</ownershipPart>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
         <RealtyName>нежилое помещение (общая долевая собственность, 3/4)</RealtyName>
         <realtyType>1</realtyType>
         <objectType>8</objectType>
@@ -1079,8 +1082,8 @@
     <relationType>2</relationType>
     <realties>
       <realty>
-        <ownershipType>3</ownershipType>
-        <ownershipPart>0.5</ownershipPart>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
         <RealtyName>квартира (общая долевая собственность, 1/2)</RealtyName>
         <realtyType>1</realtyType>
         <objectType>7</objectType>
@@ -1101,8 +1104,8 @@
     <relationType xsi:nil="true"/>
     <realties>
       <realty>
-        <ownershipType>3</ownershipType>
-        <ownershipPart>0.5</ownershipPart>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
         <RealtyName>квартира (общая долевая собственность 1/2)</RealtyName>
         <realtyType>1</realtyType>
         <objectType>7</objectType>
@@ -1289,8 +1292,8 @@
     <relationType xsi:nil="true"/>
     <realties>
       <realty>
-        <ownershipType>3</ownershipType>
-        <ownershipPart>0.5</ownershipPart>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
         <RealtyName>квартира (общая долевая собственность, 1/2)</RealtyName>
         <realtyType>1</realtyType>
         <objectType>7</objectType>
@@ -1327,8 +1330,8 @@
     <relationType>2</relationType>
     <realties>
       <realty>
-        <ownershipType>3</ownershipType>
-        <ownershipPart>0.5</ownershipPart>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
         <RealtyName>квартира (общая долевая собственность, 1/2)</RealtyName>
         <realtyType>1</realtyType>
         <objectType>7</objectType>
@@ -1650,8 +1653,8 @@
     <relationType xsi:nil="true"/>
     <realties>
       <realty>
-        <ownershipType>3</ownershipType>
-        <ownershipPart>0.333333333333</ownershipPart>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
         <RealtyName>квартира (общая долевая собственность, 1/3)</RealtyName>
         <realtyType>1</realtyType>
         <objectType>7</objectType>
@@ -1692,8 +1695,8 @@
         <country>6</country>
       </realty>
       <realty>
-        <ownershipType>3</ownershipType>
-        <ownershipPart>0.333333333333</ownershipPart>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
         <RealtyName>квартира (общая долевая собственность, 1/3)</RealtyName>
         <realtyType>1</realtyType>
         <objectType>7</objectType>
@@ -1714,8 +1717,8 @@
     <relationType xsi:nil="true"/>
     <realties>
       <realty>
-        <ownershipType>3</ownershipType>
-        <ownershipPart>0.5</ownershipPart>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
         <RealtyName>земельный участок под индивидуальное жилищное строительство (общая долевая собственность, 1/2)</RealtyName>
         <realtyType>1</realtyType>
         <objectType>8</objectType>
@@ -1723,8 +1726,8 @@
         <country>6</country>
       </realty>
       <realty>
-        <ownershipType>3</ownershipType>
-        <ownershipPart>0.5</ownershipPart>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
         <RealtyName>жилой дом (общая долевая собственность, 1/2)</RealtyName>
         <realtyType>1</realtyType>
         <objectType>8</objectType>
@@ -1767,8 +1770,8 @@
     <relationType>2</relationType>
     <realties>
       <realty>
-        <ownershipType>3</ownershipType>
-        <ownershipPart>0.5</ownershipPart>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
         <RealtyName>земельный участок под индивидуальное жилищное строительство (общая долевая собственность, 1/2)</RealtyName>
         <realtyType>1</realtyType>
         <objectType>8</objectType>
@@ -1785,8 +1788,8 @@
         <country>0</country>
       </realty>
       <realty>
-        <ownershipType>3</ownershipType>
-        <ownershipPart>0.5</ownershipPart>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
         <RealtyName>жилой дом (общая долевая собственность, 1/2)</RealtyName>
         <realtyType>1</realtyType>
         <objectType>8</objectType>
@@ -1803,8 +1806,8 @@
         <country>6</country>
       </realty>
       <realty>
-        <ownershipType>3</ownershipType>
-        <ownershipPart>0.0222222222222</ownershipPart>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
         <RealtyName>гараж (общая долевая собственность, 1/45)</RealtyName>
         <realtyType>1</realtyType>
         <objectType>8</objectType>
@@ -1832,8 +1835,8 @@
     <relationType xsi:nil="true"/>
     <realties>
       <realty>
-        <ownershipType>3</ownershipType>
-        <ownershipPart>0.333333333333</ownershipPart>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
         <RealtyName>квартира (общая долевая собственность, 1/3)</RealtyName>
         <realtyType>1</realtyType>
         <objectType>7</objectType>
@@ -1959,8 +1962,8 @@
     <relationType xsi:nil="true"/>
     <realties>
       <realty>
-        <ownershipType>3</ownershipType>
-        <ownershipPart>0.5</ownershipPart>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
         <RealtyName>квартира (общая долевая собственность, 1/2)</RealtyName>
         <realtyType>1</realtyType>
         <objectType>7</objectType>
@@ -1968,8 +1971,8 @@
         <country>6</country>
       </realty>
       <realty>
-        <ownershipType>3</ownershipType>
-        <ownershipPart>0.5</ownershipPart>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
         <RealtyName>квартира (общая долевая собственность, 1/2)</RealtyName>
         <realtyType>1</realtyType>
         <objectType>7</objectType>
@@ -1990,8 +1993,8 @@
     <relationType>2</relationType>
     <realties>
       <realty>
-        <ownershipType>3</ownershipType>
-        <ownershipPart>0.5</ownershipPart>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
         <RealtyName>квартира (общая долевая собственность, 1/2)</RealtyName>
         <realtyType>1</realtyType>
         <objectType>7</objectType>
@@ -1999,8 +2002,8 @@
         <country>6</country>
       </realty>
       <realty>
-        <ownershipType>3</ownershipType>
-        <ownershipPart>0.5</ownershipPart>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
         <RealtyName>квартира (общая долевая собственность, 1/2)</RealtyName>
         <realtyType>1</realtyType>
         <objectType>7</objectType>
@@ -2030,8 +2033,8 @@
     <relationType xsi:nil="true"/>
     <realties>
       <realty>
-        <ownershipType>3</ownershipType>
-        <ownershipPart>0.0832</ownershipPart>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
         <RealtyName>земельный участок (общая долевая собственность, 832/10000)</RealtyName>
         <realtyType>1</realtyType>
         <objectType>8</objectType>
@@ -2039,8 +2042,8 @@
         <country>6</country>
       </realty>
       <realty>
-        <ownershipType>3</ownershipType>
-        <ownershipPart>0.5</ownershipPart>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
         <RealtyName>квартира (общая долевая собственность, 1/2)</RealtyName>
         <realtyType>1</realtyType>
         <objectType>7</objectType>
@@ -2093,8 +2096,8 @@
         <country>6</country>
       </realty>
       <realty>
-        <ownershipType>3</ownershipType>
-        <ownershipPart>0.7</ownershipPart>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
         <RealtyName>хозяйственное строение (общая долевая собственность, 7/10)</RealtyName>
         <realtyType>1</realtyType>
         <objectType>8</objectType>
@@ -2102,8 +2105,8 @@
         <country>6</country>
       </realty>
       <realty>
-        <ownershipType>3</ownershipType>
-        <ownershipPart>0.7</ownershipPart>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
         <RealtyName>хозяйственное строение (общая долевая собственность, 7/10)</RealtyName>
         <realtyType>1</realtyType>
         <objectType>8</objectType>
@@ -2117,6 +2120,9 @@
       </transport>
       <transport>
         <transportName>а/м легковой NISSAN PATROL</transportName>
+      </transport>
+      <transport>
+        <transportName>а/м легковой MITSUBISHI ASX</transportName>
       </transport>
       <transport>
         <transportName>а/м грузовой ЗИЛ 131</transportName>
@@ -2152,8 +2158,8 @@
     <relationType>2</relationType>
     <realties>
       <realty>
-        <ownershipType>3</ownershipType>
-        <ownershipPart>0.2912</ownershipPart>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
         <RealtyName>земельный участок (общая долевая собственность, 2912/10000)</RealtyName>
         <realtyType>1</realtyType>
         <objectType>8</objectType>
@@ -2161,8 +2167,8 @@
         <country>6</country>
       </realty>
       <realty>
-        <ownershipType>3</ownershipType>
-        <ownershipPart>0.5</ownershipPart>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
         <RealtyName>квартира (общая долевая собственность, 1/2)</RealtyName>
         <realtyType>1</realtyType>
         <objectType>7</objectType>
@@ -2281,8 +2287,8 @@
     <relationType>2</relationType>
     <realties>
       <realty>
-        <ownershipType>3</ownershipType>
-        <ownershipPart>0.5</ownershipPart>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
         <RealtyName>квартира (общая долевая собственность, 1/2)</RealtyName>
         <realtyType>1</realtyType>
         <objectType>7</objectType>
@@ -2333,8 +2339,8 @@
     <relationType xsi:nil="true"/>
     <realties>
       <realty>
-        <ownershipType>3</ownershipType>
-        <ownershipPart>0.5</ownershipPart>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
         <RealtyName>квартира (общая долевая собственность, 1/2)</RealtyName>
         <realtyType>1</realtyType>
         <objectType>7</objectType>
@@ -2377,8 +2383,8 @@
     <relationType>2</relationType>
     <realties>
       <realty>
-        <ownershipType>3</ownershipType>
-        <ownershipPart>0.5</ownershipPart>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
         <RealtyName>квартира (общая долевая собственность, 1/2)</RealtyName>
         <realtyType>1</realtyType>
         <objectType>7</objectType>
@@ -2417,8 +2423,8 @@
         <country>6</country>
       </realty>
       <realty>
-        <ownershipType>3</ownershipType>
-        <ownershipPart>0.333333333333</ownershipPart>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
         <RealtyName>квартира (общая долевая собственность, 1/3)</RealtyName>
         <realtyType>1</realtyType>
         <objectType>7</objectType>
@@ -2448,8 +2454,8 @@
     <relationType>1</relationType>
     <realties>
       <realty>
-        <ownershipType>3</ownershipType>
-        <ownershipPart>0.333333333333</ownershipPart>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
         <RealtyName>квартира (общая долевая собственность, 1/3)</RealtyName>
         <realtyType>1</realtyType>
         <objectType>7</objectType>
@@ -2565,8 +2571,8 @@
         <country>6</country>
       </realty>
       <realty>
-        <ownershipType>3</ownershipType>
-        <ownershipPart>0.5</ownershipPart>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
         <RealtyName>квартира (общая долевая собственность, 1/2)</RealtyName>
         <realtyType>1</realtyType>
         <objectType>7</objectType>
@@ -2583,8 +2589,8 @@
         <country>6</country>
       </realty>
       <realty>
-        <ownershipType>3</ownershipType>
-        <ownershipPart>0.25</ownershipPart>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
         <RealtyName>нежилое помещение (общая долевая собственность, 1/4)</RealtyName>
         <realtyType>1</realtyType>
         <objectType>8</objectType>
@@ -2624,7 +2630,7 @@
         <transportName>автомобили легковые Lexus LХ-570</transportName>
       </transport>
       <transport>
-        <transportName>а/м легковой Ford</transportName>
+        <transportName>автомобили легковые Ford</transportName>
       </transport>
     </transports>
   </person>
@@ -2659,10 +2665,13 @@
     </realties>
     <transports>
       <transport>
-        <transportName>а/м легковой мотоцикл Honda X11</transportName>
+        <transportName>автомобиль легковой INFINITI FX35</transportName>
       </transport>
       <transport>
-        <transportName>а/м легковой мотоцикл Suzuki Boulevard</transportName>
+        <transportName>мототранспортные средства мотоцикл Honda X11</transportName>
+      </transport>
+      <transport>
+        <transportName>мототранспортные средства мотоцикл Suzuki Boulevard</transportName>
       </transport>
       <transport>
         <transportName>водный транспорт скутер Yamaha</transportName>
@@ -2713,8 +2722,8 @@
     <relationType>2</relationType>
     <realties>
       <realty>
-        <ownershipType>3</ownershipType>
-        <ownershipPart>0.5</ownershipPart>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
         <RealtyName>квартира (общая долевая собственность, 1/2)</RealtyName>
         <realtyType>1</realtyType>
         <objectType>7</objectType>
@@ -2735,8 +2744,8 @@
     <relationType>3</relationType>
     <realties>
       <realty>
-        <ownershipType>3</ownershipType>
-        <ownershipPart>0.5</ownershipPart>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
         <RealtyName>квартира (общая долевая собственность, 1/2)</RealtyName>
         <realtyType>1</realtyType>
         <objectType>7</objectType>
@@ -2819,8 +2828,8 @@
     <relationType xsi:nil="true"/>
     <realties>
       <realty>
-        <ownershipType>3</ownershipType>
-        <ownershipPart>0.5</ownershipPart>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
         <RealtyName>земельный участок под индивидуальное жилищное строительство (общая долевая собственность, 1/2)</RealtyName>
         <realtyType>1</realtyType>
         <objectType>8</objectType>
@@ -2837,8 +2846,8 @@
         <country>6</country>
       </realty>
       <realty>
-        <ownershipType>3</ownershipType>
-        <ownershipPart>0.5</ownershipPart>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
         <RealtyName>жилой дом (общая долевая собственность, 1/2)</RealtyName>
         <realtyType>1</realtyType>
         <objectType>8</objectType>
@@ -2890,8 +2899,8 @@
     <relationType>2</relationType>
     <realties>
       <realty>
-        <ownershipType>3</ownershipType>
-        <ownershipPart>0.5</ownershipPart>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
         <RealtyName>земельный участок под индивидуальное жилищное строительство (общая долевая собственность, 1/2)</RealtyName>
         <realtyType>1</realtyType>
         <objectType>8</objectType>
@@ -2899,8 +2908,8 @@
         <country>6</country>
       </realty>
       <realty>
-        <ownershipType>3</ownershipType>
-        <ownershipPart>0.5</ownershipPart>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
         <RealtyName>жилой дом (общая долевая собственность, 1/2)</RealtyName>
         <realtyType>1</realtyType>
         <objectType>8</objectType>
@@ -2987,7 +2996,7 @@
         <transportName>водный транспорт лодка «Сплав»</transportName>
       </transport>
       <transport>
-        <transportName>двигатель «Меркурий»</transportName>
+        <transportName>водный транспорт двигатель «Меркурий»</transportName>
       </transport>
     </transports>
   </person>

@@ -59,7 +59,7 @@
         <transportName>легковой автомобиль Toyota Land Cruiser-100</transportName>
       </transport>
       <transport>
-        <transportName>легковой автомобиль  Toyota Land Cruiser Prado</transportName>
+        <transportName>легковой автомобиль Toyota Land Cruiser Prado</transportName>
       </transport>
     </transports>
   </person>
@@ -185,8 +185,8 @@
         <country>6</country>
       </realty>
       <realty>
-        <ownershipType>3</ownershipType>
-        <ownershipPart>0.5</ownershipPart>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
         <RealtyName>квартира 1/2 (Россия)</RealtyName>
         <realtyType>1</realtyType>
         <objectType>7</objectType>
@@ -442,7 +442,7 @@
         <transportName>легковой автомобиль Mercedes-Benz</transportName>
       </transport>
       <transport>
-        <transportName>легковой автомобиль  Газ-21</transportName>
+        <transportName>легковой автомобиль Газ-21</transportName>
       </transport>
       <transport>
         <transportName>грузовой автомобиль Mercedes Unimog</transportName>
@@ -475,8 +475,8 @@
         <country>6</country>
       </realty>
       <realty>
-        <ownershipType>3</ownershipType>
-        <ownershipPart>0.333333333333</ownershipPart>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
         <RealtyName>квартира 1/3 (Россия)</RealtyName>
         <realtyType>1</realtyType>
         <objectType>7</objectType>
@@ -781,8 +781,8 @@
         <country>6</country>
       </realty>
       <realty>
-        <ownershipType>3</ownershipType>
-        <ownershipPart>0.5</ownershipPart>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
         <RealtyName>квартира 1/2 (Россия)</RealtyName>
         <realtyType>1</realtyType>
         <objectType>7</objectType>
@@ -807,8 +807,8 @@
     <relationType xsi:nil="true"/>
     <realties>
       <realty>
-        <ownershipType>3</ownershipType>
-        <ownershipPart>0.5</ownershipPart>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
         <RealtyName>квартира 1/2 (Россия)</RealtyName>
         <realtyType>1</realtyType>
         <objectType>7</objectType>
@@ -838,8 +838,8 @@
     <relationType xsi:nil="true"/>
     <realties>
       <realty>
-        <ownershipType>3</ownershipType>
-        <ownershipPart>0.5</ownershipPart>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
         <RealtyName>квартира 1/2 (Россия)</RealtyName>
         <realtyType>1</realtyType>
         <objectType>7</objectType>
@@ -1113,8 +1113,8 @@
     <relationType xsi:nil="true"/>
     <realties>
       <realty>
-        <ownershipType>3</ownershipType>
-        <ownershipPart>0.5</ownershipPart>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
         <RealtyName>земельный участок 1/2 (Россия)</RealtyName>
         <realtyType>1</realtyType>
         <objectType>8</objectType>
@@ -1122,8 +1122,8 @@
         <country>6</country>
       </realty>
       <realty>
-        <ownershipType>3</ownershipType>
-        <ownershipPart>0.5</ownershipPart>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
         <RealtyName>жилой дом 1/2 (Россия)</RealtyName>
         <realtyType>1</realtyType>
         <objectType>8</objectType>
@@ -1144,8 +1144,8 @@
     <relationType xsi:nil="true"/>
     <realties>
       <realty>
-        <ownershipType>3</ownershipType>
-        <ownershipPart>0.5</ownershipPart>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
         <RealtyName>земельный участок 1/2 (Россия)</RealtyName>
         <realtyType>1</realtyType>
         <objectType>8</objectType>
@@ -1153,8 +1153,8 @@
         <country>6</country>
       </realty>
       <realty>
-        <ownershipType>3</ownershipType>
-        <ownershipPart>0.5</ownershipPart>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
         <RealtyName>жилой дом 1/2 (Россия)</RealtyName>
         <realtyType>1</realtyType>
         <objectType>8</objectType>
@@ -1250,8 +1250,8 @@
         <country>6</country>
       </realty>
       <realty>
-        <ownershipType>3</ownershipType>
-        <ownershipPart>0.25</ownershipPart>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
         <RealtyName>квартира 1/4 (Россия)</RealtyName>
         <realtyType>1</realtyType>
         <objectType>7</objectType>
@@ -1294,8 +1294,8 @@
     <relationType xsi:nil="true"/>
     <realties>
       <realty>
-        <ownershipType>3</ownershipType>
-        <ownershipPart>0.25</ownershipPart>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
         <RealtyName>квартира 1/4 (Россия)</RealtyName>
         <realtyType>1</realtyType>
         <objectType>7</objectType>
@@ -1351,8 +1351,8 @@
     <relationType xsi:nil="true"/>
     <realties>
       <realty>
-        <ownershipType>3</ownershipType>
-        <ownershipPart>0.5</ownershipPart>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
         <RealtyName>квартира 1/2 (Россия)</RealtyName>
         <realtyType>1</realtyType>
         <objectType>7</objectType>
@@ -1373,8 +1373,8 @@
     <relationType xsi:nil="true"/>
     <realties>
       <realty>
-        <ownershipType>3</ownershipType>
-        <ownershipPart>0.5</ownershipPart>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
         <RealtyName>квартира 1/2 (Россия)</RealtyName>
         <realtyType>1</realtyType>
         <objectType>7</objectType>
@@ -1404,8 +1404,8 @@
     <relationType xsi:nil="true"/>
     <realties>
       <realty>
-        <ownershipType>3</ownershipType>
-        <ownershipPart>0.5</ownershipPart>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
         <RealtyName>квартира 1/2 (Россия)</RealtyName>
         <realtyType>1</realtyType>
         <objectType>7</objectType>
@@ -1439,8 +1439,8 @@
     <relationType xsi:nil="true"/>
     <realties>
       <realty>
-        <ownershipType>3</ownershipType>
-        <ownershipPart>0.5</ownershipPart>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
         <RealtyName>квартира 1/2 (Россия)</RealtyName>
         <realtyType>1</realtyType>
         <objectType>7</objectType>
@@ -1539,8 +1539,8 @@
     <relationType xsi:nil="true"/>
     <realties>
       <realty>
-        <ownershipType>3</ownershipType>
-        <ownershipPart>0.5</ownershipPart>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
         <RealtyName>квартира 1/2 (Россия)</RealtyName>
         <realtyType>1</realtyType>
         <objectType>7</objectType>
@@ -1681,8 +1681,8 @@
         <country>6</country>
       </realty>
       <realty>
-        <ownershipType>3</ownershipType>
-        <ownershipPart>0.25</ownershipPart>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
         <RealtyName>квартира 1/4 (Россия)</RealtyName>
         <realtyType>1</realtyType>
         <objectType>7</objectType>

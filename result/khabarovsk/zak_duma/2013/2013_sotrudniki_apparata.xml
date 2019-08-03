@@ -42,8 +42,8 @@
     <relationType>2</relationType>
     <realties>
       <realty>
-        <ownershipType>3</ownershipType>
-        <ownershipPart>0.5</ownershipPart>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
         <RealtyName>квартира (1/2 доли)</RealtyName>
         <realtyType>1</realtyType>
         <objectType>7</objectType>
@@ -64,8 +64,8 @@
     <relationType>3</relationType>
     <realties>
       <realty>
-        <ownershipType>3</ownershipType>
-        <ownershipPart>0.5</ownershipPart>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
         <RealtyName>квартира (1/2 доли)</RealtyName>
         <realtyType>1</realtyType>
         <objectType>7</objectType>
@@ -86,8 +86,8 @@
     <relationType xsi:nil="true"/>
     <realties>
       <realty>
-        <ownershipType>3</ownershipType>
-        <ownershipPart>0.5</ownershipPart>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
         <RealtyName>квартира (1/2 доли)</RealtyName>
         <realtyType>1</realtyType>
         <objectType>7</objectType>
@@ -95,8 +95,8 @@
         <country>6</country>
       </realty>
       <realty>
-        <ownershipType>3</ownershipType>
-        <ownershipPart>0.5</ownershipPart>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
         <RealtyName>квартира (1/2 доли)</RealtyName>
         <realtyType>1</realtyType>
         <objectType>7</objectType>
@@ -117,8 +117,8 @@
     <relationType>2</relationType>
     <realties>
       <realty>
-        <ownershipType>3</ownershipType>
-        <ownershipPart>0.5</ownershipPart>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
         <RealtyName>квартира (1/2 доли)</RealtyName>
         <realtyType>1</realtyType>
         <objectType>7</objectType>
@@ -126,8 +126,8 @@
         <country>6</country>
       </realty>
       <realty>
-        <ownershipType>3</ownershipType>
-        <ownershipPart>0.5</ownershipPart>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
         <RealtyName>квартира (1/2 доли)</RealtyName>
         <realtyType>1</realtyType>
         <objectType>7</objectType>
@@ -360,8 +360,8 @@
     <relationType xsi:nil="true"/>
     <realties>
       <realty>
-        <ownershipType>3</ownershipType>
-        <ownershipPart>0.5</ownershipPart>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
         <RealtyName>квартира (1/2 доли)(собственность)</RealtyName>
         <realtyType>1</realtyType>
         <objectType>7</objectType>
@@ -525,8 +525,8 @@
     <relationType>2</relationType>
     <realties>
       <realty>
-        <ownershipType>3</ownershipType>
-        <ownershipPart>0.5</ownershipPart>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
         <RealtyName>квартира (1/2 доли) (собственность)</RealtyName>
         <realtyType>1</realtyType>
         <objectType>7</objectType>
@@ -574,8 +574,8 @@
     <relationType xsi:nil="true"/>
     <realties>
       <realty>
-        <ownershipType>3</ownershipType>
-        <ownershipPart>0.5</ownershipPart>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
         <RealtyName>квартира (1/2 доли) (собственность)</RealtyName>
         <realtyType>1</realtyType>
         <objectType>7</objectType>
@@ -605,8 +605,8 @@
     <relationType>2</relationType>
     <realties>
       <realty>
-        <ownershipType>3</ownershipType>
-        <ownershipPart>0.5</ownershipPart>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
         <RealtyName>квартира (1/2 доли) (собственность)</RealtyName>
         <realtyType>1</realtyType>
         <objectType>7</objectType>
@@ -638,8 +638,8 @@
     <relationType>3</relationType>
     <realties>
       <realty>
-        <ownershipType>3</ownershipType>
-        <ownershipPart>0.5</ownershipPart>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
         <RealtyName>квартира (1/2 доли) (собственность)</RealtyName>
         <realtyType>1</realtyType>
         <objectType>7</objectType>

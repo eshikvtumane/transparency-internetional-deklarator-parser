@@ -35,8 +35,8 @@
     <relationType>2</relationType>
     <realties>
       <realty>
-        <ownershipType>3</ownershipType>
-        <ownershipPart>0.5</ownershipPart>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
         <RealtyName>квартира (1/2 доли)</RealtyName>
         <realtyType>1</realtyType>
         <objectType>7</objectType>
@@ -57,8 +57,8 @@
     <relationType>3</relationType>
     <realties>
       <realty>
-        <ownershipType>3</ownershipType>
-        <ownershipPart>0.5</ownershipPart>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
         <RealtyName>квартира (1/2 доли)</RealtyName>
         <realtyType>1</realtyType>
         <objectType>7</objectType>
@@ -364,8 +364,8 @@
     <relationType xsi:nil="true"/>
     <realties>
       <realty>
-        <ownershipType>3</ownershipType>
-        <ownershipPart>0.5</ownershipPart>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
         <RealtyName>квартира (1/2 доли) (собственность)</RealtyName>
         <realtyType>1</realtyType>
         <objectType>7</objectType>
@@ -589,8 +589,8 @@
     <relationType>2</relationType>
     <realties>
       <realty>
-        <ownershipType>3</ownershipType>
-        <ownershipPart>0.5</ownershipPart>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
         <RealtyName>квартира (1/2 доли) (собственность)</RealtyName>
         <realtyType>1</realtyType>
         <objectType>7</objectType>
@@ -638,8 +638,8 @@
     <relationType xsi:nil="true"/>
     <realties>
       <realty>
-        <ownershipType>3</ownershipType>
-        <ownershipPart>0.5</ownershipPart>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
         <RealtyName>квартира (1/2 доли) (собственность)</RealtyName>
         <realtyType>1</realtyType>
         <objectType>7</objectType>
@@ -669,8 +669,8 @@
     <relationType>2</relationType>
     <realties>
       <realty>
-        <ownershipType>3</ownershipType>
-        <ownershipPart>0.5</ownershipPart>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
         <RealtyName>квартира (1/2 доли) (собственность)</RealtyName>
         <realtyType>1</realtyType>
         <objectType>7</objectType>
@@ -695,8 +695,8 @@
     <relationType>3</relationType>
     <realties>
       <realty>
-        <ownershipType>3</ownershipType>
-        <ownershipPart>0.5</ownershipPart>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
         <RealtyName>квартира (1/2 доли) (собственность)</RealtyName>
         <realtyType>1</realtyType>
         <objectType>7</objectType>
@@ -708,7 +708,7 @@
   </person>
   <person>
     <id>29</id>
-    <name>Оленина Т.В.</name>
+    <name> Т.В.</name>
     <position>заведующий сектором по вопросам государственной службы и кадров аппарата Законодательной Думы Хабаровского края</position>
     <income>974522.0</income>
     <incomeComment xsi:nil="true"/>

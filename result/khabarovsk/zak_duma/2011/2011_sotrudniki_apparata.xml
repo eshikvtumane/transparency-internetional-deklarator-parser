@@ -366,8 +366,8 @@
     <relationType xsi:nil="true"/>
     <realties>
       <realty>
-        <ownershipType>3</ownershipType>
-        <ownershipPart>0.5</ownershipPart>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
         <RealtyName>1/2 доли квартиры (собственность)</RealtyName>
         <realtyType>1</realtyType>
         <objectType>8</objectType>
@@ -582,8 +582,8 @@
     <relationType>2</relationType>
     <realties>
       <realty>
-        <ownershipType>3</ownershipType>
-        <ownershipPart>0.5</ownershipPart>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
         <RealtyName>1/2 доли квартиры (собственность)</RealtyName>
         <realtyType>1</realtyType>
         <objectType>8</objectType>
@@ -631,8 +631,8 @@
     <relationType xsi:nil="true"/>
     <realties>
       <realty>
-        <ownershipType>3</ownershipType>
-        <ownershipPart>0.5</ownershipPart>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
         <RealtyName>1/2 доля квартиры (собственность)</RealtyName>
         <realtyType>1</realtyType>
         <objectType>8</objectType>
@@ -662,8 +662,8 @@
     <relationType>2</relationType>
     <realties>
       <realty>
-        <ownershipType>3</ownershipType>
-        <ownershipPart>0.5</ownershipPart>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
         <RealtyName>1/2 доля квартиры (собственность)</RealtyName>
         <realtyType>1</realtyType>
         <objectType>8</objectType>
@@ -684,8 +684,8 @@
     <relationType>3</relationType>
     <realties>
       <realty>
-        <ownershipType>3</ownershipType>
-        <ownershipPart>0.5</ownershipPart>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
         <RealtyName>1/2 доля квартиры (собственность)</RealtyName>
         <realtyType>1</realtyType>
         <objectType>8</objectType>
@@ -697,7 +697,7 @@
   </person>
   <person>
     <id>28</id>
-    <name>Оленина Т.В.</name>
+    <name> Т.В.</name>
     <position>заведующий сектором по вопросам государственной службы и кадров аппарата Законодательной Думы Хабаровского края</position>
     <income>919207.0</income>
     <incomeComment xsi:nil="true"/>

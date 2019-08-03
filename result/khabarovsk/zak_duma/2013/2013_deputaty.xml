@@ -20,8 +20,8 @@
         <country>6</country>
       </realty>
       <realty>
-        <ownershipType>3</ownershipType>
-        <ownershipPart>0.5</ownershipPart>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
         <RealtyName>квартира (1/2 доли)</RealtyName>
         <realtyType>1</realtyType>
         <objectType>7</objectType>
@@ -56,16 +56,16 @@
     </realties>
     <transports>
       <transport>
-        <transportName>легковые автомобили Toyota «Land Cruiser VDJ200L-GNTEZW»</transportName>
+        <transportName>а/м легковой Toyota «Land Cruiser VDJ200L-GNTEZW»</transportName>
       </transport>
       <transport>
-        <transportName>легковые автомобили Toyota «Land Cruiser»</transportName>
+        <transportName>а/м легковой Toyota «Land Cruiser»</transportName>
       </transport>
       <transport>
-        <transportName>лодка «Сплав»</transportName>
+        <transportName>водный транспорт лодка «Сплав»</transportName>
       </transport>
       <transport>
-        <transportName>двигатель «Меркурий»</transportName>
+        <transportName>водный транспорт двигатель «Меркурий»</transportName>
       </transport>
     </transports>
   </person>
@@ -194,8 +194,8 @@
         <country>6</country>
       </realty>
       <realty>
-        <ownershipType>3</ownershipType>
-        <ownershipPart>0.5</ownershipPart>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
         <RealtyName>квартира (1/2 доли)</RealtyName>
         <realtyType>1</realtyType>
         <objectType>7</objectType>
@@ -237,7 +237,7 @@
     </realties>
     <transports>
       <transport>
-        <transportName>легковые автомобили Suzuki «Grand Vitara»</transportName>
+        <transportName>а/м легковой Suzuki «Grand Vitara»</transportName>
       </transport>
     </transports>
   </person>
@@ -407,7 +407,7 @@
     </realties>
     <transports>
       <transport>
-        <transportName>легковые автомобили Lexus RX450H</transportName>
+        <transportName>а/м легковой Lexus RX450H</transportName>
       </transport>
     </transports>
   </person>
@@ -482,10 +482,10 @@
     </realties>
     <transports>
       <transport>
-        <transportName>легковые автомобили Mercedes-Benz</transportName>
+        <transportName>а/м легковой Mercedes-Benz</transportName>
       </transport>
       <transport>
-        <transportName>легковые автомобили Газ-21</transportName>
+        <transportName>а/м легковой Газ-21</transportName>
       </transport>
       <transport>
         <transportName>грузовой автомобиль Mercedes Unimog</transportName>
@@ -518,8 +518,8 @@
         <country>6</country>
       </realty>
       <realty>
-        <ownershipType>3</ownershipType>
-        <ownershipPart>0.333333333333</ownershipPart>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
         <RealtyName>квартира (1/3 доли)</RealtyName>
         <realtyType>1</realtyType>
         <objectType>7</objectType>
@@ -556,7 +556,7 @@
     </realties>
     <transports>
       <transport>
-        <transportName>легковые автомобили Toyota «RAV4»</transportName>
+        <transportName>а/м легковой Toyota «RAV4»</transportName>
       </transport>
     </transports>
   </person>
@@ -607,7 +607,7 @@
     </realties>
     <transports>
       <transport>
-        <transportName>легковые автомобили Isuzu «Bighorn»</transportName>
+        <transportName>а/м легковой Isuzu «Bighorn»</transportName>
       </transport>
     </transports>
   </person>
@@ -700,7 +700,7 @@
     </realties>
     <transports>
       <transport>
-        <transportName>легковые автомобили Toyota «Caldina»</transportName>
+        <transportName>а/м легковой Toyota «Caldina»</transportName>
       </transport>
     </transports>
   </person>
@@ -751,7 +751,7 @@
     </realties>
     <transports>
       <transport>
-        <transportName>легковые автомобили Toyota «Land Cruiser Prado»</transportName>
+        <transportName>а/м легковой Toyota «Land Cruiser Prado»</transportName>
       </transport>
     </transports>
   </person>
@@ -887,7 +887,7 @@
     </realties>
     <transports>
       <transport>
-        <transportName>легковые автомобили Toyota «RAV4»</transportName>
+        <transportName>а/м легковой Toyota «RAV4»</transportName>
       </transport>
     </transports>
   </person>
@@ -902,8 +902,8 @@
     <relationType xsi:nil="true"/>
     <realties>
       <realty>
-        <ownershipType>3</ownershipType>
-        <ownershipPart>0.5</ownershipPart>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
         <RealtyName>квартира (1/2 доли)</RealtyName>
         <realtyType>1</realtyType>
         <objectType>7</objectType>
@@ -933,8 +933,8 @@
     <relationType>1</relationType>
     <realties>
       <realty>
-        <ownershipType>3</ownershipType>
-        <ownershipPart>0.5</ownershipPart>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
         <RealtyName>квартира (1/2 доли)</RealtyName>
         <realtyType>1</realtyType>
         <objectType>7</objectType>
@@ -993,7 +993,7 @@
     </realties>
     <transports>
       <transport>
-        <transportName>легковой автомобиль Toyota «Camry»</transportName>
+        <transportName>а/м легковой Toyota «Camry»</transportName>
       </transport>
     </transports>
   </person>
@@ -1091,13 +1091,13 @@
     </realties>
     <transports>
       <transport>
-        <transportName>легковые автомобили Toyota «Caldina»</transportName>
+        <transportName>а/м легковой Toyota «Caldina»</transportName>
       </transport>
       <transport>
-        <transportName>легковые автомобили Honda «CR-V»</transportName>
+        <transportName>а/м легковой Honda «CR-V»</transportName>
       </transport>
       <transport>
-        <transportName>катер «Амур»</transportName>
+        <transportName>водный транспорт катер «Амур»</transportName>
       </transport>
     </transports>
   </person>
@@ -1152,8 +1152,8 @@
     <relationType xsi:nil="true"/>
     <realties>
       <realty>
-        <ownershipType>3</ownershipType>
-        <ownershipPart>0.5</ownershipPart>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
         <RealtyName>квартира (1/2 доли)</RealtyName>
         <realtyType>1</realtyType>
         <objectType>7</objectType>
@@ -1172,7 +1172,7 @@
     </realties>
     <transports>
       <transport>
-        <transportName>легковой автомобиль Toyota «Land Cruiser Prado»</transportName>
+        <transportName>а/м легковой Toyota «Land Cruiser Prado»</transportName>
       </transport>
     </transports>
   </person>
@@ -1187,8 +1187,8 @@
     <relationType>2</relationType>
     <realties>
       <realty>
-        <ownershipType>3</ownershipType>
-        <ownershipPart>0.5</ownershipPart>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
         <RealtyName>квартира (1/2 доли)</RealtyName>
         <realtyType>1</realtyType>
         <objectType>7</objectType>
@@ -1283,8 +1283,8 @@
     <relationType xsi:nil="true"/>
     <realties>
       <realty>
-        <ownershipType>3</ownershipType>
-        <ownershipPart>0.5</ownershipPart>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
         <RealtyName>земельный участок (1/2 доли)</RealtyName>
         <realtyType>1</realtyType>
         <objectType>8</objectType>
@@ -1292,8 +1292,8 @@
         <country>6</country>
       </realty>
       <realty>
-        <ownershipType>3</ownershipType>
-        <ownershipPart>0.5</ownershipPart>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
         <RealtyName>жилой дом (1/2 доли)</RealtyName>
         <realtyType>1</realtyType>
         <objectType>8</objectType>
@@ -1314,8 +1314,8 @@
     <relationType>2</relationType>
     <realties>
       <realty>
-        <ownershipType>3</ownershipType>
-        <ownershipPart>0.5</ownershipPart>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
         <RealtyName>земельный участок (1/2 доли)</RealtyName>
         <realtyType>1</realtyType>
         <objectType>8</objectType>
@@ -1323,8 +1323,8 @@
         <country>6</country>
       </realty>
       <realty>
-        <ownershipType>3</ownershipType>
-        <ownershipPart>0.5</ownershipPart>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
         <RealtyName>жилой дом (1/2 доли)</RealtyName>
         <realtyType>1</realtyType>
         <objectType>8</objectType>
@@ -1334,10 +1334,13 @@
     </realties>
     <transports>
       <transport>
-        <transportName>легковой автомобиль Chevrolet</transportName>
+        <transportName>а/м легковой Chevrolet</transportName>
       </transport>
       <transport>
-        <transportName>водный мотоцикл Jet ski Sea doo</transportName>
+        <transportName>а/м легковой водный мотоцикл</transportName>
+      </transport>
+      <transport>
+        <transportName>а/м легковой Jet ski Sea doo</transportName>
       </transport>
     </transports>
   </person>
@@ -1423,8 +1426,8 @@
         <country>6</country>
       </realty>
       <realty>
-        <ownershipType>3</ownershipType>
-        <ownershipPart>0.25</ownershipPart>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
         <RealtyName>квартира (1/4 доли)</RealtyName>
         <realtyType>1</realtyType>
         <objectType>7</objectType>
@@ -1452,7 +1455,7 @@
     </realties>
     <transports>
       <transport>
-        <transportName>легковой автомобиль Toyota «Corolla Fielder»</transportName>
+        <transportName>а/м легковой Toyota «Corolla Fielder»</transportName>
       </transport>
     </transports>
   </person>
@@ -1467,8 +1470,8 @@
     <relationType>2</relationType>
     <realties>
       <realty>
-        <ownershipType>3</ownershipType>
-        <ownershipPart>0.25</ownershipPart>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
         <RealtyName>квартира (1/4 доли)</RealtyName>
         <realtyType>1</realtyType>
         <objectType>7</objectType>
@@ -1509,22 +1512,22 @@
     </realties>
     <transports>
       <transport>
-        <transportName>легковой автомобиль Toyota «Land Cruiser»</transportName>
+        <transportName>а/м легковой Toyota «Land Cruiser»</transportName>
       </transport>
       <transport>
-        <transportName>грузовые автомобили Mazda «Titan»</transportName>
+        <transportName>а/м грузовой Mazda «Titan»</transportName>
       </transport>
       <transport>
-        <transportName>грузовые автомобили Mitsubishi «Canter»</transportName>
+        <transportName>а/м грузовой Mitsubishi «Canter»</transportName>
       </transport>
       <transport>
-        <transportName>грузовые автомобили Mitsubishi «Canter»</transportName>
+        <transportName>а/м грузовой Mitsubishi «Canter»</transportName>
       </transport>
       <transport>
-        <transportName>грузовые автомобили Hino Ranger</transportName>
+        <transportName>а/м грузовой Hino Ranger</transportName>
       </transport>
       <transport>
-        <transportName>грузовые автомобили Isuzu Elf</transportName>
+        <transportName>а/м грузовой Isuzu Elf</transportName>
       </transport>
       <transport>
         <transportName>мототранспортное средство снегоход «Буран»</transportName>
@@ -1598,7 +1601,7 @@
     </realties>
     <transports>
       <transport>
-        <transportName>легковой автомобиль Toyota «RAV4»</transportName>
+        <transportName>а/м легковой Toyota «RAV4»</transportName>
       </transport>
     </transports>
   </person>
@@ -1613,8 +1616,8 @@
     <relationType xsi:nil="true"/>
     <realties>
       <realty>
-        <ownershipType>3</ownershipType>
-        <ownershipPart>0.5</ownershipPart>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
         <RealtyName>квартира (1/2 доли)</RealtyName>
         <realtyType>1</realtyType>
         <objectType>7</objectType>
@@ -1635,8 +1638,8 @@
     <relationType>2</relationType>
     <realties>
       <realty>
-        <ownershipType>3</ownershipType>
-        <ownershipPart>0.5</ownershipPart>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
         <RealtyName>квартира (1/2 доли)</RealtyName>
         <realtyType>1</realtyType>
         <objectType>7</objectType>
@@ -1666,8 +1669,8 @@
     <relationType xsi:nil="true"/>
     <realties>
       <realty>
-        <ownershipType>3</ownershipType>
-        <ownershipPart>0.5</ownershipPart>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
         <RealtyName>квартира (1/2 доли)</RealtyName>
         <realtyType>1</realtyType>
         <objectType>7</objectType>
@@ -1686,7 +1689,7 @@
     </realties>
     <transports>
       <transport>
-        <transportName>легковой автомобиль Toyota «Land Cruiser Prado»</transportName>
+        <transportName>а/м легковой Toyota «Land Cruiser Prado»</transportName>
       </transport>
     </transports>
   </person>
@@ -1701,8 +1704,8 @@
     <relationType>2</relationType>
     <realties>
       <realty>
-        <ownershipType>3</ownershipType>
-        <ownershipPart>0.5</ownershipPart>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
         <RealtyName>квартира (1/2 доли)</RealtyName>
         <realtyType>1</realtyType>
         <objectType>7</objectType>
@@ -1817,7 +1820,7 @@
     </realties>
     <transports>
       <transport>
-        <transportName>легковой автомобиль Toyota «Land Cruiser»</transportName>
+        <transportName>а/м легковой Toyota «Land Cruiser»</transportName>
       </transport>
     </transports>
   </person>
@@ -1852,7 +1855,7 @@
     </realties>
     <transports>
       <transport>
-        <transportName>легковой автомобиль Infiniti</transportName>
+        <transportName>а/м легковой Infiniti</transportName>
       </transport>
     </transports>
   </person>
@@ -1923,8 +1926,8 @@
     <relationType>2</relationType>
     <realties>
       <realty>
-        <ownershipType>3</ownershipType>
-        <ownershipPart>0.5</ownershipPart>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
         <RealtyName>квартира (1/2 доли)</RealtyName>
         <realtyType>1</realtyType>
         <objectType>7</objectType>
@@ -2010,8 +2013,8 @@
         <country>6</country>
       </realty>
       <realty>
-        <ownershipType>3</ownershipType>
-        <ownershipPart>0.25</ownershipPart>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
         <RealtyName>квартира (1/4 доли)</RealtyName>
         <realtyType>1</realtyType>
         <objectType>7</objectType>
@@ -2021,13 +2024,16 @@
     </realties>
     <transports>
       <transport>
-        <transportName>легковые автомобили Toyota «Land Cruiser-200»</transportName>
+        <transportName>а/м легковой Toyota «Land Cruiser-200»</transportName>
       </transport>
       <transport>
-        <transportName>легковые автомобили Hyundai Elantra</transportName>
+        <transportName>а/м легковой Hyundai Elantra</transportName>
       </transport>
       <transport>
-        <transportName>мототранспортное средство гусеничный снегоход «Буран» АДЕ</transportName>
+        <transportName>мототранспортное средство гусеничный снегоход .</transportName>
+      </transport>
+      <transport>
+        <transportName>«Буран» АДЕ</transportName>
       </transport>
       <transport>
         <transportName>автоприцеп МЗСА 817715</transportName>
@@ -2045,8 +2051,8 @@
     <relationType>2</relationType>
     <realties>
       <realty>
-        <ownershipType>3</ownershipType>
-        <ownershipPart>0.25</ownershipPart>
+        <ownershipType>1</ownershipType>
+        <ownershipPart xsi:nil="true"/>
         <RealtyName>квартира (1/4 доли)</RealtyName>
         <realtyType>1</realtyType>
         <objectType>7</objectType>
