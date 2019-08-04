@@ -3,3 +3,4 @@ python-docx
 lxml
 pymorphy2
 nltk
+pandas==0.24.2
